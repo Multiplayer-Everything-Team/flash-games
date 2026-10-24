@@ -13,8 +13,7 @@ to download anything from here by hand.
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (online mod) |
 | Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Flash Player) |
 
-The games belong to their developers and publishers. They are shared here with
-the developers' permission, for use with the Multiplayer Everything launcher and
+The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
 mods applied; the original files are unchanged copies.
 
