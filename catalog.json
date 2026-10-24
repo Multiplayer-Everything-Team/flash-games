@@ -1,0 +1,50 @@
+{
+    "schemaVersion":  1,
+    "files":  [
+                  {
+                      "name":  "gunmayhem2.swf",
+                      "game":  "gunmayhem2",
+                      "path":  "games/gunmayhem2/gunmayhem2.swf",
+                      "size":  8882538,
+                      "sha256":  "86ada75cbc7c9f06e8e03e3f38df326b2847c766de79d52188a5c293879f1f38",
+                      "updated":  "2026-10-25",
+                      "description":  "Gun Mayhem 2: More Mayhem, the original game (Armor Games release)"
+                  },
+                  {
+                      "name":  "gunmayhem2_online.swf",
+                      "game":  "gunmayhem2",
+                      "path":  "games/gunmayhem2/gunmayhem2_online.swf",
+                      "size":  8897787,
+                      "sha256":  "d2141326b9ecdb1ae5cf09f7b580eb4f1119cbf70001914229b2980fcd1c6afc",
+                      "updated":  "2026-10-25",
+                      "description":  "Gun Mayhem 2 with the Multiplayer Everything online mod (Ruffle; F9 opens the online panel)"
+                  },
+                  {
+                      "name":  "stealth_hunter_2.swf",
+                      "game":  "stealthhunter2",
+                      "path":  "games/stealthhunter2/stealth_hunter_2.swf",
+                      "size":  8201250,
+                      "sha256":  "4a0256cec7928b8e003a950f951148270d3245e82bde81b780fc0fcb01e70822",
+                      "updated":  "2026-10-25",
+                      "description":  "Stealth Hunter 2, the original game"
+                  },
+                  {
+                      "name":  "stealthhunter2_online.swf",
+                      "game":  "stealthhunter2",
+                      "path":  "games/stealthhunter2/stealthhunter2_online.swf",
+                      "size":  8264768,
+                      "sha256":  "12867e7ef5754f947fccfde7349a5dab0878cb2131218409c8649b970b96470a",
+                      "updated":  "2026-10-25",
+                      "description":  "Stealth Hunter 2 with the Multiplayer Everything co-op mod, for Ruffle"
+                  },
+                  {
+                      "name":  "stealthhunter2_online_direct.swf",
+                      "game":  "stealthhunter2",
+                      "path":  "games/stealthhunter2/stealthhunter2_online_direct.swf",
+                      "size":  8193143,
+                      "sha256":  "b451d3fd3a4b3f27a0f4bc4278ea6f319f5633cd04e14817f6ed32025fb4bfc9",
+                      "updated":  "2026-10-25",
+                      "description":  "Stealth Hunter 2 co-op mod, build for Flash Player 32 (network flag set, starts straight in the game)"
+                  }
+              ]
+}
