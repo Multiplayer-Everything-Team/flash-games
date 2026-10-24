@@ -11,7 +11,7 @@ to download anything from here by hand.
 | Game | Developer | Publisher | Files |
 |---|---|---|---|
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (online mod) |
-| Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Flash Player) |
+| Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original). The co-op mod files are added once the next release passes its tests. |
 
 The games belong to their developers and publishers. They are shared here with
 the developers' permission, for use with the Multiplayer Everything launcher and
@@ -25,9 +25,9 @@ and it will be taken down.
 
 - **Gun Mayhem 2 Online:** the game's local multiplayer, over the internet. The
   host is Player 1; friends join as Players 2, 3 and 4. In the game press F9.
-- **Stealth Hunter 2 Online:** the campaign in co-op for up to four players. The
-  host runs the world; if anyone dies, the team restarts the mission. In the game
-  press F9, or ONLINE CO-OP on the title screen.
+- **Stealth Hunter 2 Online** (coming with its next tested release): the campaign
+  in co-op for up to four players. The host runs the world; if anyone dies, the
+  team restarts the mission.
 
 Hosting needs the relay that is built into the launcher (*Host online* starts it).
 

@@ -27,24 +27,6 @@
                       "sha256":  "4a0256cec7928b8e003a950f951148270d3245e82bde81b780fc0fcb01e70822",
                       "updated":  "2026-10-25",
                       "description":  "Stealth Hunter 2, the original game"
-                  },
-                  {
-                      "name":  "stealthhunter2_online.swf",
-                      "game":  "stealthhunter2",
-                      "path":  "games/stealthhunter2/stealthhunter2_online.swf",
-                      "size":  8264768,
-                      "sha256":  "12867e7ef5754f947fccfde7349a5dab0878cb2131218409c8649b970b96470a",
-                      "updated":  "2026-10-25",
-                      "description":  "Stealth Hunter 2 with the Multiplayer Everything co-op mod, for Ruffle"
-                  },
-                  {
-                      "name":  "stealthhunter2_online_direct.swf",
-                      "game":  "stealthhunter2",
-                      "path":  "games/stealthhunter2/stealthhunter2_online_direct.swf",
-                      "size":  8193143,
-                      "sha256":  "b451d3fd3a4b3f27a0f4bc4278ea6f319f5633cd04e14817f6ed32025fb4bfc9",
-                      "updated":  "2026-10-25",
-                      "description":  "Stealth Hunter 2 co-op mod, build for Flash Player 32 (network flag set, starts straight in the game)"
                   }
               ]
 }
