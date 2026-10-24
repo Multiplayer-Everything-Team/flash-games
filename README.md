@@ -1,6 +1,6 @@
 # Multiplayer Everything: Flash games
 
-The game files the [Multiplayer Everything Flash Launcher](https://github.com/multiplayereverything/multiplayer-flash-games)
+The game files the [Multiplayer Everything Flash Launcher](https://github.com/multiplayereverything/flash-games-launcher)
 downloads. When a game file is missing, the launcher offers *Download game*,
 takes the files listed for that game in [`catalog.json`](catalog.json), checks
 each one against its SHA-256, and saves it in its `games\` folder. You don't need
