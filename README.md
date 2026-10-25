@@ -1,6 +1,6 @@
 # Multiplayer Everything: Flash games
 
-The game files the [Multiplayer Everything Flash Launcher](https://github.com/Multiplayer-Everything-Team/flash-games-launcher)
+The game files the [Multiplayer Everything Flash Launcher](https://github.com/multiplayereverything/flash-games-launcher)
 downloads. When a game file is missing, the launcher offers *Download game*,
 takes the files listed for that game in [`catalog.json`](catalog.json), checks
 each one against its SHA-256, and saves it in its `games\` folder. You don't need
@@ -25,7 +25,7 @@ The games belong to their developers and publishers, for use with the Multiplaye
 mods. The `_online` files are the original games with the Multiplayer Everything
 mods applied; the original files are unchanged copies.
 
-**Rights holders:** if you want a file changed or removed, [open an issue](https://github.com/Multiplayer-Everything-Team/flash-games/issues)
+**Rights holders:** if you want a file changed or removed, [open an issue](https://github.com/multiplayereverything/flash-games/issues)
 and it will be taken down.
 
 ## What the mods add
@@ -63,7 +63,7 @@ with your own relay and type its address under SERVER.
 Not rerun for this build: network lag, solo play, Flash Player, and the campaign
 sweep through every level. Known issues: picking a lock at a door sometimes
 misses, and a few script errors appear in 3 and 4 player games. Report problems
-in the [issues](https://github.com/Multiplayer-Everything-Team/flash-games/issues).
+in the [issues](https://github.com/multiplayereverything/flash-games/issues).
 
 Hosting needs the relay that is built into the launcher (*Host online* starts it).
 
@@ -89,3 +89,12 @@ launcher expects in its `games\` folder.
    re-download a file only when someone asks for it.
 
 Each file must stay under GitHub's 100 MB limit; the current ones are 2 to 9 MB.
+
+## Made with
+
+This project was made with the help of these tools:
+
+- [antislop-ui](https://github.com/miqdadbadjuber/anti-slop/tree/main/skills/antislop-ui)
+- [coop-anything](https://github.com/cranebeaker/coop-anything)
+- [REA](https://github.com/morluto/rea)
+- [Universal Modder](https://github.com/rehan-remade/universal-modder)
