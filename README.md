@@ -1,6 +1,6 @@
 # Multiplayer Everything: Flash games
 
-The game files the [Multiplayer Everything Flash Launcher](https://github.com/multiplayereverything/flash-games-launcher)
+The game files the [Multiplayer Everything Flash Launcher](https://github.com/Multiplayer-Everything-Team/flash-games-launcher)
 downloads. When a game file is missing, the launcher offers *Download game*,
 takes the files listed for that game in [`catalog.json`](catalog.json), checks
 each one against its SHA-256, and saves it in its `games\` folder. You don't need
@@ -15,12 +15,17 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (online mod) |
 | Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Flash Player) |
 | Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op mod; also fixes the levels that wouldn't start outside the web page) |
+| Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (online mod) |
+| Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
+| Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (online co-op mod) |
+| Air Battle | BubbleBox | | `AirBattle_online.swf` (online co-op mod) |
+| Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (online co-op mod) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
 mods applied; the original files are unchanged copies.
 
-**Rights holders:** if you want a file changed or removed, [open an issue](https://github.com/multiplayereverything/flash-games/issues)
+**Rights holders:** if you want a file changed or removed, [open an issue](https://github.com/Multiplayer-Everything-Team/flash-games/issues)
 and it will be taken down.
 
 ## What the mods add
@@ -34,6 +39,20 @@ and it will be taken down.
 - **Bad Ice-Cream Online:** two players on two PCs. The host is Player 1 and picks
   the levels; the friend joins as Player 2. In the game press F9. The same file
   plays co-op on one keyboard too.
+- **Territory War Online:** red against blue on up to four PCs. Each team's sticks
+  are shared out between that team's players. Click ONLINE PLAY on the main menu or press F9.
+- **Bow Man Online:** two archers on two PCs, taking turns. VS Online on the title menu.
+- **Ultimate Crab Battle Online:** up to four ships against the same crab, sharing
+  one HP bar. Friends can join in the middle of a fight. Press F9.
+- **Air Battle Online:** up to four players fly the levels together, one balloon
+  boat each. ONLINE CO-OP on the main menu, or F9.
+- **Raft Wars Online:** two to four players on the brothers' raft, taking turns at
+  the bazooka, with shared credits in the shop. PLAY ONLINE on the main menu, or F9.
+
+The five new mods connect to the Multiplayer Everything relay with room codes. They
+work there once their game ids are added to
+[mods-info](https://github.com/multiplayereverything/mods-info); until then, host
+with your own relay and type its address under SERVER.
 
 ## Test status
 
@@ -44,7 +63,7 @@ and it will be taken down.
 Not rerun for this build: network lag, solo play, Flash Player, and the campaign
 sweep through every level. Known issues: picking a lock at a door sometimes
 misses, and a few script errors appear in 3 and 4 player games. Report problems
-in the [issues](https://github.com/multiplayereverything/flash-games/issues).
+in the [issues](https://github.com/Multiplayer-Everything-Team/flash-games/issues).
 
 Hosting needs the relay that is built into the launcher (*Host online* starts it).
 

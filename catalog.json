@@ -2,6 +2,15 @@
     "schemaVersion":  1,
     "files":  [
                   {
+                      "name":  "AirBattle_online.swf",
+                      "game":  "airbattle",
+                      "path":  "games/airbattle/AirBattle_online.swf",
+                      "size":  2041977,
+                      "sha256":  "a2ab4c0ebd3d395c51522ce42ebf6499a7ab16dfd5a6f93e2f0807f6b9b3ea49",
+                      "updated":  "2026-10-25",
+                      "description":  "Air Battle with the Multiplayer Everything online co-op mod, up to 4 players (Ruffle; ONLINE CO-OP or F9)"
+                  },
+                  {
                       "name":  "BadIceCream_online.swf",
                       "game":  "badicecream",
                       "path":  "games/badicecream/BadIceCream_online.swf",
@@ -9,6 +18,15 @@
                       "sha256":  "739a27ecad7397223b57522493664ac17d3f4c88ae149f5e853d520b535b6e5f",
                       "updated":  "2026-10-25",
                       "description":  "Bad Ice-Cream with the Multiplayer Everything online co-op mod (Ruffle; F9 opens the online panel; also plays on one keyboard)"
+                  },
+                  {
+                      "name":  "BowMan_online.swf",
+                      "game":  "bowman",
+                      "path":  "games/bowman/BowMan_online.swf",
+                      "size":  54184,
+                      "sha256":  "2dec86128fa117db84db6a67f65e5cdfc166ffe39226c659c77b816ece6af4b4",
+                      "updated":  "2026-10-25",
+                      "description":  "Bow Man with the Multiplayer Everything online mod, 2 players (Ruffle only; VS Online on the title menu)"
                   },
                   {
                       "name":  "gunmayhem2.swf",
@@ -27,6 +45,15 @@
                       "sha256":  "d2141326b9ecdb1ae5cf09f7b580eb4f1119cbf70001914229b2980fcd1c6afc",
                       "updated":  "2026-10-25",
                       "description":  "Gun Mayhem 2 with the Multiplayer Everything online mod (Ruffle; F9 opens the online panel)"
+                  },
+                  {
+                      "name":  "RaftWars_online.swf",
+                      "game":  "raftwars",
+                      "path":  "games/raftwars/RaftWars_online.swf",
+                      "size":  1930461,
+                      "sha256":  "0151c6a8d22f1e4d2e338d454c4c2fe5e6cad971b201e5a590865fc7e718e2e0",
+                      "updated":  "2026-10-25",
+                      "description":  "Raft Wars with the Multiplayer Everything online co-op mod, up to 4 players taking turns (Ruffle; PLAY ONLINE or F9)"
                   },
                   {
                       "name":  "stealth_hunter_2.swf",
@@ -54,6 +81,24 @@
                       "sha256":  "c4a2c8c6b926b3c9d2f52a145a693231e92f640800792c2200b892269f05deb4",
                       "updated":  "2026-10-25",
                       "description":  "Stealth Hunter 2 co-op mod, build for Flash Player 32 (network flag set, starts straight in the game)"
+                  },
+                  {
+                      "name":  "TerritoryWar_online.swf",
+                      "game":  "territorywar",
+                      "path":  "games/territorywar/TerritoryWar_online.swf",
+                      "size":  1030646,
+                      "sha256":  "28d2d9c5313a650ff4788ef6fccd9bb6450c31908ddb395f496b063cbcbe0faf",
+                      "updated":  "2026-10-25",
+                      "description":  "Territory War with the Multiplayer Everything online mod, red against blue on up to 4 PCs (Ruffle; ONLINE PLAY or F9)"
+                  },
+                  {
+                      "name":  "UltimateCrabBattle_online.swf",
+                      "game":  "ultimatecrabbattle",
+                      "path":  "games/ultimatecrabbattle/UltimateCrabBattle_online.swf",
+                      "size":  3118582,
+                      "sha256":  "cc4abbb1b8d8857535e44af6fae4b1de72f4a3e0f8c4d465eff9acb6ccb8ca49",
+                      "updated":  "2026-10-25",
+                      "description":  "Ultimate Crab Battle with the Multiplayer Everything online co-op mod, up to 4 players (Ruffle; F9 opens the online panel)"
                   }
               ]
 }
