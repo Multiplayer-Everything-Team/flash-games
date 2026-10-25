@@ -2,6 +2,15 @@
     "schemaVersion":  1,
     "files":  [
                   {
+                      "name":  "BadIceCream_online.swf",
+                      "game":  "badicecream",
+                      "path":  "games/badicecream/BadIceCream_online.swf",
+                      "size":  1949708,
+                      "sha256":  "739a27ecad7397223b57522493664ac17d3f4c88ae149f5e853d520b535b6e5f",
+                      "updated":  "2026-10-25",
+                      "description":  "Bad Ice-Cream with the Multiplayer Everything online co-op mod (Ruffle; F9 opens the online panel; also plays on one keyboard)"
+                  },
+                  {
                       "name":  "gunmayhem2.swf",
                       "game":  "gunmayhem2",
                       "path":  "games/gunmayhem2/gunmayhem2.swf",

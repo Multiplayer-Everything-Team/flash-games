@@ -14,6 +14,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 |---|---|---|---|
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (online mod) |
 | Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Flash Player) |
+| Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op mod; also fixes the levels that wouldn't start outside the web page) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
@@ -30,6 +31,9 @@ and it will be taken down.
   host runs the world and each player moves their own character on their own PC;
   if anyone dies, the team restarts the mission. In the game press F9, or ONLINE
   CO-OP on the title screen.
+- **Bad Ice-Cream Online:** two players on two PCs. The host is Player 1 and picks
+  the levels; the friend joins as Player 2. In the game press F9. The same file
+  plays co-op on one keyboard too.
 
 ## Test status
 
@@ -65,4 +69,4 @@ launcher expects in its `games\` folder.
 4. Commit the file and `catalog.json` together. Launchers see the new SHA-256 and
    re-download a file only when someone asks for it.
 
-Each file must stay under GitHub's 100 MB limit; the current ones are about 8 MB.
+Each file must stay under GitHub's 100 MB limit; the current ones are 2 to 9 MB.
