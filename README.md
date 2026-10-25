@@ -6,6 +6,8 @@ takes the files listed for that game in [`catalog.json`](catalog.json), checks
 each one against its SHA-256, and saves it in its `games\` folder. You don't need
 to download anything from here by hand.
 
+Questions, bugs, or looking for people to play with? Join the [Multiplayer Everything Discord](https://discord.com/invite/P2MSSUf5GX).
+
 ## Games
 
 | Game | Developer | Publisher | Files |
