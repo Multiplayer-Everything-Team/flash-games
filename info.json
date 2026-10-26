@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "note": "What the website shows for each game's mod: its version and what changed. Edit this by hand when a game file changes; the file dates, sizes and checksums come from catalog.json. Bump the version whenever the online file is replaced.",
+  "games": {
+    "gunmayhem2": { "version": "1.1", "changes": ["The online panel opens on ONLINE (room codes) by default."] },
+    "stealthhunter2": { "version": "1.0", "changes": ["Co-op for up to four players, for Ruffle and Flash Player."] },
+    "badicecream": { "version": "1.2", "changes": ["Lobby mode: the launcher's lobby runs the room.", "Fixes the levels that would not start outside the web page."] },
+    "territorywar": { "version": "1.0", "changes": ["Online mod, red against blue on up to four PCs."] },
+    "bowman": { "version": "1.0", "changes": ["Online mod for two players, taking turns (Ruffle only)."] },
+    "ultimatecrabbattle": { "version": "1.0", "changes": ["Online co-op for up to four players."] },
+    "airbattle": { "version": "1.0", "changes": ["Online co-op for up to four players."] },
+    "raftwars": { "version": "1.0", "changes": ["Online co-op for two to four players, taking turns."] }
+  }
+}

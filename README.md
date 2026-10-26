@@ -71,6 +71,7 @@ Hosting needs the relay that is built into the launcher (*Host online* starts it
 
 ```
 catalog.json              every file: name, game id, path, size, sha256, date
+info.json                 each game's mod version and what changed (edit by hand; the website reads it)
 games/<game id>/*.swf     the files themselves
 tools/update-catalog.ps1  rebuilds catalog.json from games/
 tools/file-notes.json     one-line description per file name
