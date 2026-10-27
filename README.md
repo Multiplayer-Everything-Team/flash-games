@@ -47,7 +47,8 @@ and it will be taken down.
 - **Air Battle Online:** up to four players fly the levels together, one balloon
   boat each. ONLINE CO-OP on the main menu, or F9.
 - **Raft Wars Online:** two to four players on the brothers' raft, taking turns at
-  the bazooka, with shared credits in the shop. PLAY ONLINE on the main menu, or F9.
+  the bazooka, with shared credits in the shop. PLAY ONLINE on the main menu, or F9;
+  the MODE button switches between room codes (default) and Direct IP.
 
 The five new mods connect to the Multiplayer Everything relay with room codes. They
 work there once their game ids are added to
