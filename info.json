@@ -9,6 +9,7 @@
     "bowman": { "version": "1.0", "changes": ["Online mod for two players, taking turns (Ruffle only)."] },
     "ultimatecrabbattle": { "version": "1.0", "changes": ["Online co-op for up to four players."] },
     "airbattle": { "version": "1.0", "changes": ["Online co-op for up to four players."] },
-    "raftwars": { "version": "1.0", "changes": ["Online co-op for two to four players, taking turns."] }
+    "raftwars": { "version": "1.0", "changes": ["Online co-op for two to four players, taking turns."] },
+    "intrusion": { "version": "0.1.0", "changes": ["Online co-op for up to four players through the campaign, room codes or Direct IP."] }
   }
 }
