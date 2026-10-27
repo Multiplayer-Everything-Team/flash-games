@@ -21,6 +21,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Air Battle | BubbleBox | | `AirBattle_online.swf` (online co-op mod) |
 | Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (online co-op mod) |
 | Intrusion (2008) | vap | | `Intrusion_online.swf` (online co-op mod) |
+| Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (online co-op mod) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
@@ -55,6 +56,11 @@ and it will be taken down.
   the world and each player moves their own soldier on their own PC; the team shares
   the lives. The Online Co-op panel is on the main menu (F9 in a level), with room codes
   by default and Direct IP as the second choice.
+- **Stealth Assassin Online:** up to four assassins sneak through the missions
+  together, each on their own PC; every extra player adds one more green target. A
+  player who dies watches the rest of the mission; it fails only when everyone is
+  down. ONLINE CO-OP on the menu, or F9; MODE switches between room codes (default)
+  and Direct IP.
 
 The five new mods connect to the Multiplayer Everything relay with room codes. They
 work there once their game ids are added to
