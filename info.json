@@ -8,7 +8,7 @@
     "territorywar": { "version": "1.0", "changes": ["Online mod, red against blue on up to four PCs."] },
     "bowman": { "version": "1.0", "changes": ["Online mod for two players, taking turns (Ruffle only)."] },
     "ultimatecrabbattle": { "version": "1.0", "changes": ["Online co-op for up to four players."] },
-    "airbattle": { "version": "1.0", "changes": ["Online co-op for up to four players."] },
+    "airbattle": { "version": "1.1", "changes": ["Online co-op for up to four players.", "Direct IP next to room codes: a second tab connects to a relay on the host's PC.", "Guests see the same wall sparks and shrapnel marks as the host.", "After the last level the host gets MENU at once; a wrong mod version is turned away with a reason."] },
     "raftwars": { "version": "1.0", "changes": ["Online co-op for two to four players, taking turns."] },
     "intrusion": { "version": "0.1.0", "changes": ["Online co-op for up to four players through the campaign, room codes or Direct IP."] }
   }

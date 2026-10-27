@@ -46,7 +46,8 @@ and it will be taken down.
 - **Ultimate Crab Battle Online:** up to four ships against the same crab, sharing
   one HP bar. Friends can join in the middle of a fight. Press F9.
 - **Air Battle Online:** up to four players fly the levels together, one balloon
-  boat each. ONLINE CO-OP on the main menu, or F9.
+  boat each. ONLINE CO-OP on the main menu, or F9; room codes by default, Direct IP
+  as the second tab.
 - **Raft Wars Online:** two to four players on the brothers' raft, taking turns at
   the bazooka, with shared credits in the shop. PLAY ONLINE on the main menu, or F9;
   the MODE button switches between room codes (default) and Direct IP.
