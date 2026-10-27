@@ -59,8 +59,8 @@
                       "name":  "RaftWars_online.swf",
                       "game":  "raftwars",
                       "path":  "games/raftwars/RaftWars_online.swf",
-                      "size":  1932669,
-                      "sha256":  "a15081eaf7c9b3080cfea828ac89094ec491404c28f47a8d56e92df588d3d888",
+                      "size":  1932683,
+                      "sha256":  "b884c10bdb7d9cfe435e0097071f80e73324d2e60d40f7cfc61b41f56d2cc994",
                       "updated":  "2026-10-28",
                       "description":  "Raft Wars with the Multiplayer Everything online co-op mod, up to 4 players taking turns, room codes or Direct IP (Ruffle; PLAY ONLINE or F9)"
                   },
