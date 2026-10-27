@@ -46,7 +46,8 @@ and it will be taken down.
   room codes by default, or MODE: DIRECT IP to join a host's own relay by IP.
 - **Bow Man Online:** two archers on two PCs, taking turns. VS Online on the title menu.
 - **Ultimate Crab Battle Online:** up to four ships against the same crab, sharing
-  one HP bar. Friends can join in the middle of a fight. Press F9.
+  one HP bar. Friends can join in the middle of a fight. ONLINE on the difficulty menu, or F9;
+  the MODE button switches between room codes (default) and Direct IP.
 - **Air Battle Online:** up to four players fly the levels together, one balloon
   boat each. ONLINE CO-OP on the main menu, or F9; room codes by default, Direct IP
   as the second tab.

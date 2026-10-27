@@ -113,10 +113,10 @@
                       "name":  "UltimateCrabBattle_online.swf",
                       "game":  "ultimatecrabbattle",
                       "path":  "games/ultimatecrabbattle/UltimateCrabBattle_online.swf",
-                      "size":  3118582,
-                      "sha256":  "cc4abbb1b8d8857535e44af6fae4b1de72f4a3e0f8c4d465eff9acb6ccb8ca49",
-                      "updated":  "2026-10-25",
-                      "description":  "Ultimate Crab Battle with the Multiplayer Everything online co-op mod, up to 4 players (Ruffle; F9 opens the online panel)"
+                      "size":  3121141,
+                      "sha256":  "dd243f3619ddfc7370194f8af944ca1ee9845fe4264db2a09d2eabde95c8aa26",
+                      "updated":  "2026-10-28",
+                      "description":  "Ultimate Crab Battle with the Multiplayer Everything online co-op mod, up to 4 players, room codes or Direct IP (Ruffle; F9 opens the online panel)"
                   }
               ]
 }
