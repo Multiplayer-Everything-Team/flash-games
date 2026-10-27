@@ -110,6 +110,15 @@
                       "description":  "Territory War with the Multiplayer Everything online mod, red against blue on up to 4 PCs, room codes or direct IP (Ruffle; ONLINE PLAY or F9)"
                   },
                   {
+                      "name":  "UltimateAssassin1_online.swf",
+                      "game":  "ultimateassassin1",
+                      "path":  "games/ultimateassassin1/UltimateAssassin1_online.swf",
+                      "size":  420348,
+                      "sha256":  "bf58c616eeb72ae90778859a3a6acd57bd4385bc87aeebbe2cf537eabcc180db",
+                      "updated":  "2026-10-28",
+                      "description":  "Ultimate Assassin with the Multiplayer Everything online co-op mod, up to 4 players, one extra target per extra player, room codes or Direct IP (Ruffle; ONLINE CO-OP on the menu or F9)"
+                  },
+                  {
                       "name":  "UltimateCrabBattle_online.swf",
                       "game":  "ultimatecrabbattle",
                       "path":  "games/ultimatecrabbattle/UltimateCrabBattle_online.swf",

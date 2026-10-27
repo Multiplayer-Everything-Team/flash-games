@@ -22,6 +22,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (online co-op mod) |
 | Intrusion (2008) | vap | | `Intrusion_online.swf` (online co-op mod) |
 | Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (online co-op mod) |
+| Ultimate Assassin | Games121 | | `UltimateAssassin1_online.swf` (online co-op mod, Ruffle) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
@@ -63,6 +64,10 @@ and it will be taken down.
   player who dies watches the rest of the mission; it fails only when everyone is
   down. ONLINE CO-OP on the menu, or F9; MODE switches between room codes (default)
   and Direct IP.
+- **Ultimate Assassin Online:** the first Ultimate Assassin for up to four assassins,
+  each on their own PC, one more target per extra player; the level fails only when
+  everyone is caught. ONLINE CO-OP on the menu, or F9; MODE switches between room
+  codes (default) and Direct IP.
 
 The five new mods connect to the Multiplayer Everything relay with room codes. They
 work there once their game ids are added to
