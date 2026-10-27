@@ -14,10 +14,10 @@
                       "name":  "BadIceCream_online.swf",
                       "game":  "badicecream",
                       "path":  "games/badicecream/BadIceCream_online.swf",
-                      "size":  1953899,
-                      "sha256":  "86af47878355ca373798b021e0be16a6731bb3fdb431cbb2108ccd981c2e1564",
-                      "updated":  "2026-10-26",
-                      "description":  "Bad Ice-Cream with the Multiplayer Everything online co-op mod (Ruffle; F9 opens the online panel, or the launcher\u0027s lobby runs the room; also plays on one keyboard)"
+                      "size":  1959756,
+                      "sha256":  "fbaf31011199f785afe856f445bc095ed3311c654208f7ba97c4334306cb8064",
+                      "updated":  "2026-10-28",
+                      "description":  "Bad Ice-Cream with the Multiplayer Everything online co-op mod (Ruffle; F9: RELAY room codes or DIRECT to the host\u0027s IP, or the launcher\u0027s lobby runs the room; also plays on one keyboard)"
                   },
                   {
                       "name":  "BowMan_online.swf",
