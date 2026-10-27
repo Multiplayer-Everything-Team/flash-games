@@ -104,8 +104,8 @@
                       "name":  "TerritoryWar_online.swf",
                       "game":  "territorywar",
                       "path":  "games/territorywar/TerritoryWar_online.swf",
-                      "size":  1033502,
-                      "sha256":  "c9335454b3b0329a194a2c04da55316c9b24e5d0d0c935853f6c8a3953449b44",
+                      "size":  1033506,
+                      "sha256":  "af415648c1448ae64a287646b99e0874625f8b8606923a092c2bda4050148fd7",
                       "updated":  "2026-10-27",
                       "description":  "Territory War with the Multiplayer Everything online mod, red against blue on up to 4 PCs, room codes or direct IP (Ruffle; ONLINE PLAY or F9)"
                   },
