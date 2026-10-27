@@ -42,7 +42,8 @@ and it will be taken down.
   the levels; the friend joins as Player 2. In the game press F9. The same file
   plays co-op on one keyboard too.
 - **Territory War Online:** red against blue on up to four PCs. Each team's sticks
-  are shared out between that team's players. Click ONLINE PLAY on the main menu or press F9.
+  are shared out between that team's players. Click ONLINE PLAY on the main menu or press F9;
+  room codes by default, or MODE: DIRECT IP to join a host's own relay by IP.
 - **Bow Man Online:** two archers on two PCs, taking turns. VS Online on the title menu.
 - **Ultimate Crab Battle Online:** up to four ships against the same crab, sharing
   one HP bar. Friends can join in the middle of a fight. Press F9.
