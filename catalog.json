@@ -41,9 +41,9 @@
                       "name":  "gunmayhem2_online.swf",
                       "game":  "gunmayhem2",
                       "path":  "games/gunmayhem2/gunmayhem2_online.swf",
-                      "size":  8898080,
-                      "sha256":  "e73b23ceb8ed749d8e38e61663a928085e71e8c2ca554ca7329858667ad630f5",
-                      "updated":  "2026-10-25",
+                      "size":  8878178,
+                      "sha256":  "5b612353affc6b8767ef5ed7ffeb17875b2a8630a59c0aeff9aa895f89ae1ef5",
+                      "updated":  "2026-10-27",
                       "description":  "Gun Mayhem 2 with the Multiplayer Everything online mod (Ruffle; F9 opens the online panel)"
                   },
                   {
