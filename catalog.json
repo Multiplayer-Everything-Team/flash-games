@@ -11,6 +11,15 @@
                       "description":  "Air Battle with the Multiplayer Everything online co-op mod, up to 4 players, room codes or Direct IP (Ruffle; ONLINE CO-OP or F9)"
                   },
                   {
+                      "name":  "BadIceCream_coop.swf",
+                      "game":  "badicecream",
+                      "path":  "games/badicecream/BadIceCream_coop.swf",
+                      "size":  1938077,
+                      "sha256":  "4635ddfc255df0a9682d3fab3b7c2942035a498c1e131cdb062436d5d4593494",
+                      "updated":  "2026-10-28",
+                      "description":  "Bad Ice-Cream for Ruffle Together (lockstep online co-op in the ruffle-coop build, 1.0.0 and later): the game with only the fix for levels that would not start outside the web page, and no online mod code. Both players need this exact file."
+                  },
+                  {
                       "name":  "BadIceCream_online.swf",
                       "game":  "badicecream",
                       "path":  "games/badicecream/BadIceCream_online.swf",

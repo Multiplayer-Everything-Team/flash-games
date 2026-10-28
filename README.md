@@ -14,7 +14,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 |---|---|---|---|
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (online mod) |
 | Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Ruffle, no preloader) |
-| Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op mod; also fixes the levels that wouldn't start outside the web page) |
+| Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op mod; also fixes the levels that wouldn't start outside the web page), `BadIceCream_coop.swf` (for [Ruffle Together](https://github.com/multiplayereverything/ruffle-coop/releases/tag/v1.0.0): only the level fix, no mod code) |
 | Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (online mod) |
 | Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
 | Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (online co-op mod) |
