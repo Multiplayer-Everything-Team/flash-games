@@ -23,8 +23,8 @@
                       "name":  "BowMan_online.swf",
                       "game":  "bowman",
                       "path":  "games/bowman/BowMan_online.swf",
-                      "size":  56484,
-                      "sha256":  "4850e7441cfeaf15629d74a39d25ddc294e753c74acb71eb6b51fe42f74a44df",
+                      "size":  56577,
+                      "sha256":  "aaddf3521d43db11c947cd9966bb10a535d49be4b7d0104a40aa33fbbe792c1b",
                       "updated":  "2026-10-28",
                       "description":  "Bow Man with the Multiplayer Everything online mod, 2 players (Ruffle only; VS Online on the title menu: room codes or Direct IP)"
                   },
