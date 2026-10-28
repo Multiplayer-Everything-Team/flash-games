@@ -14,7 +14,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 |---|---|---|---|
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (online mod) |
 | Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Ruffle, no preloader) |
-| Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op mod; also fixes the levels that wouldn't start outside the web page), `BadIceCream_coop.swf` (for [Ruffle Together](https://github.com/multiplayereverything/ruffle-coop/releases/tag/v1.0.0): only the level fix, no mod code) |
+| Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op in [Ruffle Together](https://github.com/multiplayereverything/ruffle-coop/releases/tag/v1.0.0): the game with only the fix for levels that wouldn't start outside the web page, no mod code), `BadIceCream_coop.swf` (the same file under its earlier name) |
 | Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (online mod) |
 | Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
 | Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (online co-op mod) |
@@ -41,9 +41,10 @@ and it will be taken down.
   host runs the world and each player moves their own character on their own PC;
   if anyone dies, the team restarts the mission. In the game press F9, or ONLINE
   CO-OP on the title screen.
-- **Bad Ice-Cream Online:** two players on two PCs. The host is Player 1 and picks
-  the levels; the friend joins as Player 2. In the game press F9. The same file
-  plays co-op on one keyboard too.
+- **Bad Ice-Cream Online:** two players on two PCs in Ruffle Together: both PCs run the
+  same game and only key presses travel. The host is Player 1 and picks the levels.
+  Host with `--coop-host`, join with `--coop-join <ip>:<port>`, or use a room code on
+  the central relay. The same file plays co-op on one keyboard in plain Ruffle too.
 - **Territory War Online:** red against blue on up to four PCs. Each team's sticks
   are shared out between that team's players. Click ONLINE PLAY on the main menu or press F9;
   room codes by default, or MODE: DIRECT IP to join a host's own relay by IP.
