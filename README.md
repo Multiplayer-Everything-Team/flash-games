@@ -13,7 +13,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Game | Developer | Publisher | Files |
 |---|---|---|---|
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (online mod) |
-| Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Flash Player) |
+| Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Ruffle, no preloader) |
 | Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op mod; also fixes the levels that wouldn't start outside the web page) |
 | Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (online mod) |
 | Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
@@ -76,14 +76,13 @@ with your own relay and type its address under SERVER.
 
 ## Test status
 
-**Stealth Hunter 2 co-op, build of 2026-10-25 01:01** (`stealthhunter2_online.swf`,
-`stealthhunter2_online_direct.swf`). The mod's scripted lab passed with 2 players
-(97 to 98 of 99 checks), 3 players (139 of 139) and 4 players (178 of 179).
-
-Not rerun for this build: network lag, solo play, Flash Player, and the campaign
-sweep through every level. Known issues: picking a lock at a door sometimes
-misses, and a few script errors appear in 3 and 4 player games. Report problems
-in the [issues](https://github.com/multiplayereverything/flash-games/issues).
+**Stealth Hunter 2 co-op, build of 2026-10-28 01:46** (`stealthhunter2_online.swf`,
+`stealthhunter2_online_direct.swf`), Ruffle only. The mod's scripted lab passed with 2 players
+(178 of 178, through the room-code relay and through a direct relay), 3 players (282 of 282),
+4 players (389 of 390, the miss a dead guard's animation frame on one screen), single player
+(9 of 9) and the campaign sweep through every level (2385 of 2386, fixed since). All on one PC;
+not yet played between two real PCs on this build. Report problems in the
+[issues](https://github.com/multiplayereverything/flash-games/issues).
 
 Hosting needs the relay that is built into the launcher (*Host online* starts it).
 
