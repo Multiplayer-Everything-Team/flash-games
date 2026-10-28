@@ -23,6 +23,8 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Intrusion (2008) | vap | | `Intrusion_online.swf` (online co-op mod) |
 | Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (online co-op mod) |
 | Ultimate Assassin | Games121 | | `UltimateAssassin1_online.swf` (online co-op mod, Ruffle) |
+| Ultimate Assassin 2 | Games121 | | `UltimateAssassin2_online.swf` (online co-op mod) |
+| Ultimate Assassin 3 | Games121 | | `UltimateAssassin3_online.swf` (online co-op mod) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
@@ -68,6 +70,10 @@ and it will be taken down.
   each on their own PC, one more target per extra player; the level fails only when
   everyone is caught. ONLINE CO-OP on the menu, or F9; MODE switches between room
   codes (default) and Direct IP.
+- **Ultimate Assassin 2 Online** and **Ultimate Assassin 3 Online:** the same co-op
+  for up to four assassins: every guard sees and shoots the nearest player, one more
+  target per extra player, the level fails only when everyone is dead. ONLINE CO-OP
+  on the menu, or F9; MODE switches between room codes (default) and Direct IP.
 
 The five new mods connect to the Multiplayer Everything relay with room codes. They
 work there once their game ids are added to

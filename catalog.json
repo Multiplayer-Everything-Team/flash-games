@@ -119,6 +119,24 @@
                       "description":  "Ultimate Assassin with the Multiplayer Everything online co-op mod, up to 4 players, one extra target per extra player, room codes or Direct IP (Ruffle; ONLINE CO-OP on the menu or F9)"
                   },
                   {
+                      "name":  "UltimateAssassin2_online.swf",
+                      "game":  "ultimateassassin2",
+                      "path":  "games/ultimateassassin2/UltimateAssassin2_online.swf",
+                      "size":  2887584,
+                      "sha256":  "d6843f8b2d14aea579a3df0d1668bfd12b33e0da8d66397bcc4b6f6ed618c6f5",
+                      "updated":  "2026-10-28",
+                      "description":  "Ultimate Assassin 2 with the Multiplayer Everything online co-op mod, up to 4 players, one extra target per extra player, room codes or Direct IP (Ruffle; ONLINE CO-OP on the menu or F9)"
+                  },
+                  {
+                      "name":  "UltimateAssassin3_online.swf",
+                      "game":  "ultimateassassin3",
+                      "path":  "games/ultimateassassin3/UltimateAssassin3_online.swf",
+                      "size":  2625010,
+                      "sha256":  "2a9632afdb169f350632d498c8fedc1e5f6dbdf2a4fe255d9e6f09539fe678a0",
+                      "updated":  "2026-10-28",
+                      "description":  "Ultimate Assassin 3 with the Multiplayer Everything online co-op mod, up to 4 players, one extra target per extra player, room codes or Direct IP (Ruffle; ONLINE CO-OP on the menu or F9)"
+                  },
+                  {
                       "name":  "UltimateCrabBattle_online.swf",
                       "game":  "ultimatecrabbattle",
                       "path":  "games/ultimatecrabbattle/UltimateCrabBattle_online.swf",
