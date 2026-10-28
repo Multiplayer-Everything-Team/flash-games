@@ -12,7 +12,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 
 | Game | Developer | Publisher | Files |
 |---|---|---|---|
-| Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (online mod) |
+| Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (Ruffle Together build) |
 | Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Ruffle, no preloader) |
 | Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op in [Ruffle Together](https://github.com/multiplayereverything/ruffle-coop/releases/tag/v1.0.0): the game with only the fix for levels that wouldn't start outside the web page, no mod code), `BadIceCream_coop.swf` (the same file under its earlier name) |
 | Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (online mod) |

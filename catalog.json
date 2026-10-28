@@ -50,10 +50,10 @@
                       "name":  "gunmayhem2_online.swf",
                       "game":  "gunmayhem2",
                       "path":  "games/gunmayhem2/gunmayhem2_online.swf",
-                      "size":  8878741,
-                      "sha256":  "25017d28995dc1005df0752d6c1fa9ad1373b3e420cb3242e9fa765e00f64e45",
+                      "size":  8882713,
+                      "sha256":  "080b5f9b394fce4fa14a324b09b859dc7ae215f7bdd635d748bb48e8147fd901",
                       "updated":  "2026-10-28",
-                      "description":  "Gun Mayhem 2 with the Multiplayer Everything online mod (Ruffle; F9 opens the online panel)"
+                      "description":  "Gun Mayhem 2 for Ruffle Together (up to 4 players online; the game\u0027s own local multiplayer, keys synced by Ruffle Together)"
                   },
                   {
                       "name":  "Intrusion_online.swf",
