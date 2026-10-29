@@ -5,10 +5,10 @@
                       "name":  "AirBattle_online.swf",
                       "game":  "airbattle",
                       "path":  "games/airbattle/AirBattle_online.swf",
-                      "size":  2048684,
-                      "sha256":  "fabd1ca8ec1d8f4eef5da0bcdd9dd8050212b854b4a0dc847e5380e370c6fad8",
-                      "updated":  "2026-10-27",
-                      "description":  "Air Battle with the Multiplayer Everything online co-op mod, up to 4 players, room codes or Direct IP (Ruffle; ONLINE CO-OP or F9)"
+                      "size":  2011986,
+                      "sha256":  "453ec1c4ec031c2e08a16f1a0ce89da6cd399dd991351f6452e5dec61ef47b83",
+                      "updated":  "2026-10-29",
+                      "description":  "Air Battle local co-op for Ruffle Together: 1-4 balloon boats in one game, each on their own keys (P1 arrows+Z+Down/X, P2 W A D+T+S/Y, P3/P4 numpad; --coop-keys air-battle), PLAYERS button on the main menu. No netcode; every player needs this exact file. 1 player is the original game. Replaces the old relay mod (ONLINE CO-OP or F9)"
                   },
                   {
                       "name":  "BadIceCream_coop.swf",

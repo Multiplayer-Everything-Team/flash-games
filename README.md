@@ -18,7 +18,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (2-4 player hot-seat, online through Ruffle Together) |
 | Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
 | Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (online co-op mod) |
-| Air Battle | BubbleBox | | `AirBattle_online.swf` (online co-op mod) |
+| Air Battle | BubbleBox | | `AirBattle_online.swf` (1-4 player local co-op, online through Ruffle Together) |
 | Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (1-4 player turn co-op, online through Ruffle Together) |
 | Intrusion (2008) | vap | | `Intrusion_online.swf` (2-4 player local co-op, online through Ruffle Together) |
 | Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (1-4 player local co-op, online through Ruffle Together) |
@@ -53,9 +53,11 @@ and it will be taken down.
 - **Ultimate Crab Battle Online:** up to four ships against the same crab, sharing
   one HP bar. Friends can join in the middle of a fight. ONLINE on the difficulty menu, or F9;
   the MODE button switches between room codes (default) and Direct IP.
-- **Air Battle Online:** up to four players fly the levels together, one balloon
-  boat each. ONLINE CO-OP on the main menu, or F9; room codes by default, Direct IP
-  as the second tab.
+- **Air Battle Online:** one to four balloon boats fly the levels together, online
+  through Ruffle Together 1.0.3.4 or later (`--coop-keys air-battle`). PLAYERS 1-4 on the
+  main menu sets the count. P1 arrows, Z fires, Down/X turn the cannon (or the mouse aims);
+  P2 W A D, T, S/Y; P3 and P4 on the numpad. Extra boats wait at the start until their
+  player presses a key; the level fails only when every boat is down.
 - **Raft Wars Online:** one to four players on the brothers' raft, taking turns at
   the bazooka, online through Ruffle Together (`--coop-keys gun-mayhem-2`). PLAYERS on the
   main menu sets the count; on your turn arrows or WASD aim and set power, Z/T fires, X/Y
