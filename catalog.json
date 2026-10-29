@@ -65,6 +65,15 @@
                       "description":  "Intrusion with local co-op for 2-4 soldiers, played online through Ruffle Together 1.0.3.4+ (--coop-keys intrusion; Players 1-4 on the main menu, shared lives, one camera)"
                   },
                   {
+                      "name":  "Intrusion2_online.swf",
+                      "game":  "intrusion2",
+                      "path":  "games/intrusion2/Intrusion2_online.swf",
+                      "size":  19124613,
+                      "sha256":  "515dfcd63a80e5055af939f0d654b3be18216f4e7ad3a0832495dc8fabbd2a65",
+                      "updated":  "2026-10-29",
+                      "description":  "Intrusion 2 with local co-op for 1-4 soldiers, played online through Ruffle Together 1.0.3.4+ (--coop-keys intrusion-2; PLAYERS button under START, each player on their own keys, P1 aims with the mouse, respawn next to a teammate). No netcode; every player needs this exact file. With 1 player the co-op code is switched off."
+                  },
+                  {
                       "name":  "RaftWars_online.swf",
                       "game":  "raftwars",
                       "path":  "games/raftwars/RaftWars_online.swf",
