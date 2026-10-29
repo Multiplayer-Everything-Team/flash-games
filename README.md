@@ -21,7 +21,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Air Battle | BubbleBox | | `AirBattle_online.swf` (online co-op mod) |
 | Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (online co-op mod) |
 | Intrusion (2008) | vap | | `Intrusion_online.swf` (online co-op mod) |
-| Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (online co-op mod) |
+| Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (1-4 player local co-op, online through Ruffle Together) |
 | Ultimate Assassin | Games121 | | `UltimateAssassin1_online.swf` (online co-op mod, Ruffle) |
 | Ultimate Assassin 2 | Games121 | | `UltimateAssassin2_online.swf` (online co-op mod) |
 | Ultimate Assassin 3 | Games121 | | `UltimateAssassin3_online.swf` (online co-op mod) |
