@@ -27,6 +27,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Ultimate Assassin 2 | Games121 | | `UltimateAssassin2_online.swf` (online co-op mod) |
 | Ultimate Assassin 3 | Games121 | | `UltimateAssassin3_online.swf` (online co-op mod) |
 | Smileys War (2007) | Louissi | [Newgrounds](https://www.newgrounds.com/portal/view/389672) | `SmileysWar_online.swf` (2-4 humans in place of bots, online through Ruffle Together) |
+| Fireboy & Watergirl in The Forest Temple (2009) | Oslo Albet | [Armor Games](https://www.newgrounds.com/portal/view/518816) | `FireboyWatergirlForestTemple_online.swf` (its 2-player co-op, online through Ruffle Together 1.0.3.6) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
@@ -90,6 +91,11 @@ and it will be taken down.
   weapon, everyone aims and fires with their own mouse (or Space/F to fire and Q/E to
   aim). One shared view follows the middle of the humans. With HUMANS 1 it is the
   original game.
+- **Fireboy & Watergirl Online:** the game's own two-player co-op on two PCs through
+  Ruffle Together 1.0.3.6 (`--coop-keys fireboy-watergirl`). The host is Fireboy and the
+  friend is Watergirl; each presses arrows or W/A/D on their own PC, and P pauses. The
+  host's mouse runs the menus. Only the ad, the online hiscore board and the sponsor links
+  are taken out.
 
 The five new mods connect to the Multiplayer Everything relay with room codes. They
 work there once their game ids are added to

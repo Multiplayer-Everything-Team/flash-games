@@ -38,6 +38,15 @@
                       "description":  "Bow Man with the Multiplayer Everything online mod, 2 players (Ruffle only; VS Online on the title menu: room codes or Direct IP)"
                   },
                   {
+                      "name":  "FireboyWatergirlForestTemple_online.swf",
+                      "game":  "fireboywatergirlforesttemple",
+                      "path":  "games/fireboywatergirlforesttemple/FireboyWatergirlForestTemple_online.swf",
+                      "size":  1856525,
+                      "sha256":  "b0918e96d5d72a09c45cf0c878b92800397b6725cbfa531a86af78fcf4fee77b",
+                      "updated":  "2026-10-29",
+                      "description":  "Fireboy \u0026 Watergirl in The Forest Temple for Ruffle Together 1.0.3.6 (--coop-keys fireboy-watergirl, 2 players): the game\u0027s own co-op, host = Fireboy, friend = Watergirl; only the ad, the online hiscore board and the sponsor links removed, no netcode. Every player needs this exact file."
+                  },
+                  {
                       "name":  "gunmayhem2.swf",
                       "game":  "gunmayhem2",
                       "path":  "games/gunmayhem2/gunmayhem2.swf",
