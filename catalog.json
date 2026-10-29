@@ -74,6 +74,15 @@
                       "description":  "Raft Wars with 1-4 player turn co-op on the brothers\u0027 raft, online through Ruffle Together (--coop-keys gun-mayhem-2)"
                   },
                   {
+                      "name":  "SmileysWar_online.swf",
+                      "game":  "smileyswar",
+                      "path":  "games/smileyswar/SmileysWar_online.swf",
+                      "size":  3826925,
+                      "sha256":  "6d02e560fb9ad29077c3d98b9f4e8e3b0ac59956c28edf26b0be7f1570234a1f",
+                      "updated":  "2026-10-29",
+                      "description":  "Smileys War for Ruffle Together (1.0.3.4 and later, --coop-keys smileys-war): 2-4 humans take the bots\u0027 places, each on their own keys and own mouse; the game with added local multiplayer, no netcode. Every player needs this exact file."
+                  },
+                  {
                       "name":  "StealthAssassin_online.swf",
                       "game":  "stealthassassin",
                       "path":  "games/stealthassassin/StealthAssassin_online.swf",

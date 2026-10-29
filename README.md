@@ -25,6 +25,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Ultimate Assassin | Games121 | | `UltimateAssassin1_online.swf` (online co-op mod, Ruffle) |
 | Ultimate Assassin 2 | Games121 | | `UltimateAssassin2_online.swf` (online co-op mod) |
 | Ultimate Assassin 3 | Games121 | | `UltimateAssassin3_online.swf` (online co-op mod) |
+| Smileys War (2007) | Louissi | [Newgrounds](https://www.newgrounds.com/portal/view/389672) | `SmileysWar_online.swf` (2-4 humans in place of bots, online through Ruffle Together) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
@@ -80,6 +81,13 @@ and it will be taken down.
   for up to four assassins: every guard sees and shoots the nearest player, one more
   target per extra player, the level fails only when everyone is dead. ONLINE CO-OP
   on the menu, or F9; MODE switches between room codes (default) and Direct IP.
+- **Smileys War Online:** two to four humans take the bots' places in the game's own
+  Deathmatch, Rambo and Team modes, online through Ruffle Together 1.0.3.4 or later
+  (`--coop-keys smileys-war`). On the Arena screen the host clicks HUMANS (1-4) next to
+  the player count; bots fill the rest. Arrows or WASD move and jump, S/Down switches
+  weapon, everyone aims and fires with their own mouse (or Space/F to fire and Q/E to
+  aim). One shared view follows the middle of the humans. With HUMANS 1 it is the
+  original game.
 
 The five new mods connect to the Multiplayer Everything relay with room codes. They
 work there once their game ids are added to
@@ -96,6 +104,12 @@ Together 1.0.3.4 (`--coop-keys stealth-hunter-2`). Tested on one PC: the in-game
 through a relay and directly with no desync. Not yet played by two real players on two PCs.
 Players far apart can walk out of the shared view. Report problems in the
 [issues](https://github.com/multiplayereverything/flash-games/issues).
+
+**Smileys War for Ruffle Together, build of 2026-10-29** (`SmileysWar_online.swf`): 2 to 4 humans
+through Ruffle Together 1.0.3.4. Tested on one PC: replays identical frame for frame (and identical to
+the original game with one human), Ruffle Together sessions with 2, 3 and 4 players through a relay
+and directly with no desync, and two real windows with no desync. Not yet played by two real players
+on two PCs.
 
 Hosting needs the relay that is built into the launcher (*Host online* starts it).
 
