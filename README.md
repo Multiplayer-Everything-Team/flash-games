@@ -17,7 +17,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op in [Ruffle Together](https://github.com/multiplayereverything/ruffle-coop/releases/tag/v1.0.0): the game with only the fix for levels that wouldn't start outside the web page, no mod code), `BadIceCream_coop.swf` (the same file under its earlier name) |
 | Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (2-4 player hot-seat, online through Ruffle Together) |
 | Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
-| Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (online co-op mod) |
+| Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (2-4 player co-op, online through Ruffle Together) |
 | Air Battle | BubbleBox | | `AirBattle_online.swf` (1-4 player local co-op, online through Ruffle Together) |
 | Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (1-4 player turn co-op, online through Ruffle Together) |
 | Intrusion (2008) | vap | | `Intrusion_online.swf` (2-4 player local co-op, online through Ruffle Together) |
@@ -51,9 +51,10 @@ and it will be taken down.
   player on the same keys (arrows, Space, 1-4, X, V). The host sets up the Custom Battle
   with the mouse; everyone plays their team's turns from the keyboard.
 - **Bow Man Online:** two archers on two PCs, taking turns. VS Online on the title menu.
-- **Ultimate Crab Battle Online:** up to four ships against the same crab, sharing
-  one HP bar. Friends can join in the middle of a fight. ONLINE on the difficulty menu, or F9;
-  the MODE button switches between room codes (default) and Direct IP.
+- **Ultimate Crab Battle Online:** two to four ships against the same crab, sharing one HP
+  bar, on two to four PCs in Ruffle Together (`--coop-keys ultimate-crab-battle`). Every PC
+  plays with the same keys (arrows, Space/Enter/Z/F to fire, Ctrl to skip); players 2-4 press fire on
+  the difficulty menu to join, then anyone picks 1, 2 or 3. The host's mouse clicks the menus.
 - **Air Battle Online:** one to four balloon boats fly the levels together, online
   through Ruffle Together 1.0.3.4 or later (`--coop-keys air-battle`). PLAYERS 1-4 on the
   main menu sets the count. P1 arrows, Z fires, Down/X turn the cannon (or the mouse aims);
