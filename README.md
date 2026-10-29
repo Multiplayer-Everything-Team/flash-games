@@ -19,7 +19,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
 | Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (2-4 player co-op, online through Ruffle Together) |
 | Air Battle | BubbleBox | | `AirBattle_online.swf` (1-4 player local co-op, online through Ruffle Together) |
-| Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (1-4 player turn co-op, online through Ruffle Together) |
+| Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (1-4 player turn co-op, online through Ruffle Together 1.0.3.4+, each player aims with their own mouse or keys) |
 | Intrusion (2008) | vap | | `Intrusion_online.swf` (2-4 player local co-op, online through Ruffle Together) |
 | Intrusion 2 (2012) | vap | | `Intrusion2_online.swf` (1-4 player local co-op, online through Ruffle Together) |
 | Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (1-4 player local co-op, online through Ruffle Together) |

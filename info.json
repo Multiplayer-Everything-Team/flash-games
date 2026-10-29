@@ -9,7 +9,7 @@
     "bowman": { "version": "1.1.1", "changes": ["A connection that stops answering is noticed after 15 seconds, with a message, instead of leaving a player waiting.", "Direct IP next to room codes: a Mode button in the online panel (room codes stay the default).", "Shots fired while the previous arrow still flies stay in sync: same wind changes and arrow-on-arrow deflections on both screens.", "The open rooms list shows rooms again", "a third player in a Direct room is told the room is full."] },
     "ultimatecrabbattle": { "version": "2.0", "changes": ["Co-op for 2 to 4 players through Ruffle Together 1.0.3.4: local co-op added to the game, every PC plays with its normal keys, no netcode.", "Players 2 to 4 join with their fire key on the difficulty menu; their ships are tinted.", "One player is the original game.", "Online co-op for up to four players."] },
     "airbattle": { "version": "2.0", "changes": ["Local co-op for one to four players, online through Ruffle Together 1.0.3.4 (--coop-keys air-battle).", "PLAYERS 1-4 on the main menu; every boat has its own keys and balloon colour.", "Extra boats wait at the start until their player presses a key; the level fails only when every boat is down.", "Replaces the relay mod (room codes); one player is the original game."] },
-    "raftwars": { "version": "1.0", "changes": ["Online co-op for two to four players, taking turns."] },
+    "raftwars": { "version": "1.1", "changes": ["Every player aims and fires with their own mouse on their turn (Ruffle Together 1.0.3.4+); keys still work.", "Online co-op for two to four players, taking turns."] },
     "intrusion": { "version": "0.1.0", "changes": ["Online co-op for up to four players through the campaign, room codes or Direct IP."] }
   }
 }
