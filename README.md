@@ -13,7 +13,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Game | Developer | Publisher | Files |
 |---|---|---|---|
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (Ruffle Together build) |
-| Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op mod, Ruffle), `stealthhunter2_online_direct.swf` (co-op mod, Ruffle, no preloader) |
+| Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op for Ruffle Together), `stealthhunter2_online_direct.swf` (same file) |
 | Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op in [Ruffle Together](https://github.com/multiplayereverything/ruffle-coop/releases/tag/v1.0.0): the game with only the fix for levels that wouldn't start outside the web page, no mod code), `BadIceCream_coop.swf` (the same file under its earlier name) |
 | Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (online mod) |
 | Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
@@ -84,12 +84,13 @@ with your own relay and type its address under SERVER.
 
 ## Test status
 
-**Stealth Hunter 2 co-op, build of 2026-10-28 01:46** (`stealthhunter2_online.swf`,
-`stealthhunter2_online_direct.swf`), Ruffle only. The mod's scripted lab passed with 2 players
-(178 of 178, through the room-code relay and through a direct relay), 3 players (282 of 282),
-4 players (389 of 390, the miss a dead guard's animation frame on one screen), single player
-(9 of 9) and the campaign sweep through every level (2385 of 2386, fixed since). All on one PC;
-not yet played between two real PCs on this build. Report problems in the
+**Stealth Hunter 2 co-op for Ruffle Together, build of 2026-10-29** (`stealthhunter2_online.swf`,
+`stealthhunter2_online_direct.swf`, the same file). The game has no local multiplayer of its own, so
+this build adds it: 2 to 4 players, each on their own PC with the normal keys, through Ruffle
+Together 1.0.3.4 (`--coop-keys stealth-hunter-2`). Tested on one PC: the in-game co-op lab (17 of
+17), replays identical frame for frame, and Ruffle Together sessions with 2, 3 and 4 players
+through a relay and directly with no desync. Not yet played by two real players on two PCs.
+Players far apart can walk out of the shared view. Report problems in the
 [issues](https://github.com/multiplayereverything/flash-games/issues).
 
 Hosting needs the relay that is built into the launcher (*Host online* starts it).

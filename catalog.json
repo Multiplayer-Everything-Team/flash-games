@@ -95,19 +95,19 @@
                       "name":  "stealthhunter2_online.swf",
                       "game":  "stealthhunter2",
                       "path":  "games/stealthhunter2/stealthhunter2_online.swf",
-                      "size":  8287875,
-                      "sha256":  "ab7f0c0cd3b46c71ebd7e9c65c2ea50c8d4cccd78388249c82623c4a362b291e",
-                      "updated":  "2026-10-28",
-                      "description":  "Stealth Hunter 2 with the Multiplayer Everything co-op mod, for Ruffle"
+                      "size":  8217474,
+                      "sha256":  "312f57bb28c29bcb641ef228d28d6e98082ebaf5e51e8c4caf2e02f9697790cd",
+                      "updated":  "2026-10-29",
+                      "description":  "Stealth Hunter 2 with local co-op for 2-4 players, played online through Ruffle Together (--coop-keys stealth-hunter-2)"
                   },
                   {
                       "name":  "stealthhunter2_online_direct.swf",
                       "game":  "stealthhunter2",
                       "path":  "games/stealthhunter2/stealthhunter2_online_direct.swf",
-                      "size":  8215037,
-                      "sha256":  "7a041c61cd114b9ca0427181e50c06469f66233426d9b26e6daf186c9a9d3c5b",
-                      "updated":  "2026-10-28",
-                      "description":  "Stealth Hunter 2 co-op mod without the sponsor preloader (starts straight in the game), for Ruffle"
+                      "size":  8217474,
+                      "sha256":  "312f57bb28c29bcb641ef228d28d6e98082ebaf5e51e8c4caf2e02f9697790cd",
+                      "updated":  "2026-10-29",
+                      "description":  "The same Ruffle Together co-op build as stealthhunter2_online.swf (no sponsor preloader)"
                   },
                   {
                       "name":  "TerritoryWar_online.swf",
