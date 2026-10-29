@@ -68,10 +68,10 @@
                       "name":  "RaftWars_online.swf",
                       "game":  "raftwars",
                       "path":  "games/raftwars/RaftWars_online.swf",
-                      "size":  1932792,
-                      "sha256":  "8dd53f45a64b10f0c0c27a3def53eba94bd5d5c18188e3193368307b0c29b987",
-                      "updated":  "2026-10-28",
-                      "description":  "Raft Wars with the Multiplayer Everything online co-op mod, up to 4 players taking turns, room codes or Direct IP (Ruffle; PLAY ONLINE or F9)"
+                      "size":  1915548,
+                      "sha256":  "3aad624c9bb8a68fc6ee0db6fd976a7506b8a791c8200b3702885b8a1a9bc76f",
+                      "updated":  "2026-10-29",
+                      "description":  "Raft Wars with 1-4 player turn co-op on the brothers\u0027 raft, online through Ruffle Together (--coop-keys gun-mayhem-2)"
                   },
                   {
                       "name":  "StealthAssassin_online.swf",

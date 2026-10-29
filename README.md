@@ -19,7 +19,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
 | Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (online co-op mod) |
 | Air Battle | BubbleBox | | `AirBattle_online.swf` (online co-op mod) |
-| Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (online co-op mod) |
+| Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (1-4 player turn co-op, online through Ruffle Together) |
 | Intrusion (2008) | vap | | `Intrusion_online.swf` (online co-op mod) |
 | Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (1-4 player local co-op, online through Ruffle Together) |
 | Ultimate Assassin | Games121 | | `UltimateAssassin1_online.swf` (online co-op mod, Ruffle) |
@@ -55,9 +55,10 @@ and it will be taken down.
 - **Air Battle Online:** up to four players fly the levels together, one balloon
   boat each. ONLINE CO-OP on the main menu, or F9; room codes by default, Direct IP
   as the second tab.
-- **Raft Wars Online:** two to four players on the brothers' raft, taking turns at
-  the bazooka, with shared credits in the shop. PLAY ONLINE on the main menu, or F9;
-  the MODE button switches between room codes (default) and Direct IP.
+- **Raft Wars Online:** one to four players on the brothers' raft, taking turns at
+  the bazooka, online through Ruffle Together (`--coop-keys gun-mayhem-2`). PLAYERS on the
+  main menu sets the count; on your turn arrows or WASD aim and set power, Z/T fires, X/Y
+  changes ammo (player 1 can also use the mouse). The host's mouse runs menus and the shop.
 - **Intrusion Online:** the campaign in co-op for up to four players. The host runs
   the world and each player moves their own soldier on their own PC; the team shares
   the lives. The Online Co-op panel is on the main menu (F9 in a level), with room codes
