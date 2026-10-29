@@ -113,10 +113,10 @@
                       "name":  "TerritoryWar_online.swf",
                       "game":  "territorywar",
                       "path":  "games/territorywar/TerritoryWar_online.swf",
-                      "size":  1033506,
-                      "sha256":  "af415648c1448ae64a287646b99e0874625f8b8606923a092c2bda4050148fd7",
-                      "updated":  "2026-10-27",
-                      "description":  "Territory War with the Multiplayer Everything online mod, red against blue on up to 4 PCs, room codes or direct IP (Ruffle; ONLINE PLAY or F9)"
+                      "size":  1005978,
+                      "sha256":  "7d451faa6b9c61412fa72bc1175d259931588062e9f606b683d31444e3e4f92e",
+                      "updated":  "2026-10-29",
+                      "description":  "Territory War for Ruffle Together: its Player 1 vs Player 2 hot-seat played online by 2-4 PCs (--coop-keys territory-war; same keys for everyone, host mouse for menus)"
                   },
                   {
                       "name":  "UltimateAssassin1_online.swf",
