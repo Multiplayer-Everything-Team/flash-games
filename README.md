@@ -20,7 +20,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (online co-op mod) |
 | Air Battle | BubbleBox | | `AirBattle_online.swf` (online co-op mod) |
 | Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (1-4 player turn co-op, online through Ruffle Together) |
-| Intrusion (2008) | vap | | `Intrusion_online.swf` (online co-op mod) |
+| Intrusion (2008) | vap | | `Intrusion_online.swf` (2-4 player local co-op, online through Ruffle Together) |
 | Stealth Assassin (2014) | | | `StealthAssassin_online.swf` (1-4 player local co-op, online through Ruffle Together) |
 | Ultimate Assassin | Games121 | | `UltimateAssassin1_online.swf` (online co-op mod, Ruffle) |
 | Ultimate Assassin 2 | Games121 | | `UltimateAssassin2_online.swf` (online co-op mod) |
@@ -60,10 +60,11 @@ and it will be taken down.
   the bazooka, online through Ruffle Together (`--coop-keys gun-mayhem-2`). PLAYERS on the
   main menu sets the count; on your turn arrows or WASD aim and set power, Z/T fires, X/Y
   changes ammo (player 1 can also use the mouse). The host's mouse runs menus and the shop.
-- **Intrusion Online:** the campaign in co-op for up to four players. The host runs
-  the world and each player moves their own soldier on their own PC; the team shares
-  the lives. The Online Co-op panel is on the main menu (F9 in a level), with room codes
-  by default and Direct IP as the second choice.
+- **Intrusion Online:** the campaign in co-op for up to four soldiers, online through
+  Ruffle Together 1.0.3.4 or later (`--coop-keys intrusion`). The host picks 1-4 under
+  Players on the main menu and starts the game; each PC plays its own soldier with arrows
+  or WASD, Space/Z/F to fire, Q/E to aim up/down and 1-4 for weapons (player 1 can also aim
+  with the mouse). The team shares the lives and one camera keeps everyone in view.
 - **Stealth Assassin Online:** up to four assassins sneak through the missions
   together, each on their own PC; every extra player adds one more green target. A
   player who dies watches the rest of the mission; it fails only when everyone is

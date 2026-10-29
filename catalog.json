@@ -59,10 +59,10 @@
                       "name":  "Intrusion_online.swf",
                       "game":  "intrusion",
                       "path":  "games/intrusion/Intrusion_online.swf",
-                      "size":  5526311,
-                      "sha256":  "07456e161fa1c3716ec0445a9efc7bce54cf6354b388a018b815a72f691937e2",
-                      "updated":  "2026-10-27",
-                      "description":  "Intrusion with the Multiplayer Everything online co-op mod, up to 4 players through the campaign, room codes or Direct IP (Ruffle; Online Co-op panel on the main menu, F9 in a level)"
+                      "size":  5504153,
+                      "sha256":  "8a89d2413a3c4d5eb453c94847b465200d11bc000b6f9c90be557f14e9e38fe7",
+                      "updated":  "2026-10-29",
+                      "description":  "Intrusion with local co-op for 2-4 soldiers, played online through Ruffle Together 1.0.3.4+ (--coop-keys intrusion; Players 1-4 on the main menu, shared lives, one camera)"
                   },
                   {
                       "name":  "RaftWars_online.swf",
