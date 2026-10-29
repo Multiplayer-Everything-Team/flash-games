@@ -28,7 +28,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Ultimate Assassin 3 | Games121 | | `UltimateAssassin3_online.swf` (online co-op mod) |
 | Smileys War (2007) | Louissi | [Newgrounds](https://www.newgrounds.com/portal/view/389672) | `SmileysWar_online.swf` (2-4 humans in place of bots, online through Ruffle Together) |
 | Fireboy & Watergirl in The Forest Temple (2009) | Oslo Albet | [Armor Games](https://www.newgrounds.com/portal/view/518816) | `FireboyWatergirlForestTemple_online.swf` (its 2-player co-op, online through Ruffle Together 1.0.3.6) |
-| Dad 'n Me (2005) | Tom Fulp, Dan Paladin | [Newgrounds](https://www.newgrounds.com/portal/view/254456) | `DadNMe_online.swf` (players 2-4 added, online through Ruffle Together 1.0.3.6) |
+| Dad 'n Me (2005) | Tom Fulp, Dan Paladin | [Newgrounds](https://www.newgrounds.com/portal/view/254456) | `DadNMe_online.swf` (players 2-4 added, online through Ruffle Together 1.0.3.7) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
@@ -102,11 +102,13 @@ and it will be taken down.
   are taken out.
 
 - **Dad 'n Me Online:** the single-player beat 'em up with players 2 to 4 added, online
-  through Ruffle Together 1.0.3.6 (`--coop-keys gun-mayhem-2`, `--coop-players 2-4`). Every
+  through Ruffle Together 1.0.3.7 (`--coop-keys gun-mayhem-2`, `--coop-players 2-4`). Every
   player presses arrows or WASD to move, Z or T to punch and X or Y for the second punch on
-  their own PC; the host clicks the menus. Enemies go for the nearest player, one shared
+  their own PC, and has their own HUD at the top left; the host clicks the menus. Enemies go
+  for the nearest player, one shared
   screen follows the group, and a knocked-out player gets up again after 6 seconds while
-  anyone is still standing. With one player it is the original game.
+  anyone is still standing. A friend who leaves is taken out and the rest play on. With
+  one player it is the original game.
 
 The five new mods connect to the Multiplayer Everything relay with room codes. They
 work there once their game ids are added to
@@ -131,9 +133,10 @@ and directly with no desync, and two real windows with no desync. Not yet played
 on two PCs.
 
 **Dad 'n Me for Ruffle Together, build of 2026-10-30** (`DadNMe_online.swf`): 1 to 4 players through
-Ruffle Together 1.0.3.6. Tested on one PC: replays identical frame for frame (and identical to the original
+Ruffle Together 1.0.3.7. Tested on one PC: replays identical frame for frame (and identical to the original
 game with one player), Ruffle Together sessions with 2, 3 and 4 players through a relay and directly with no
-desync, and a 4-player run by test bots through every boss to the ending with no desync. Not yet played by
+desync, a 4-player run by test bots through every boss to the ending with no desync, and the same run with
+one friend leaving halfway (the other three played on in sync). Not yet played by
 real players on two PCs.
 
 Hosting needs the relay that is built into the launcher (*Host online* starts it).
