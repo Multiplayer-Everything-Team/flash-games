@@ -32,10 +32,10 @@
                       "name":  "BowMan_online.swf",
                       "game":  "bowman",
                       "path":  "games/bowman/BowMan_online.swf",
-                      "size":  56577,
-                      "sha256":  "aaddf3521d43db11c947cd9966bb10a535d49be4b7d0104a40aa33fbbe792c1b",
-                      "updated":  "2026-10-28",
-                      "description":  "Bow Man with the Multiplayer Everything online mod, 2 players (Ruffle only; VS Online on the title menu: room codes or Direct IP)"
+                      "size":  41301,
+                      "sha256":  "cf41e3d3942317bd4af402055cdb5be36ce3a287cfb15bce46c5d583fc0a64e8",
+                      "updated":  "2026-10-30",
+                      "description":  "Bow Man for Ruffle Together: VS Human online for 2 PCs (--coop-keys bow-man; P1 W/S + Space, P2 I/K + Enter, or each player\u0027s own mouse)"
                   },
                   {
                       "name":  "DadNMe_online.swf",

@@ -16,7 +16,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op for Ruffle Together), `stealthhunter2_online_direct.swf` (same file) |
 | Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op in [Ruffle Together](https://github.com/multiplayereverything/ruffle-coop/releases/tag/v1.0.0): the game with only the fix for levels that wouldn't start outside the web page, no mod code), `BadIceCream_coop.swf` (the same file under its earlier name) |
 | Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (2-4 player hot-seat, online through Ruffle Together) |
-| Bow Man | | | `BowMan_online.swf` (online mod, Ruffle only) |
+| Bow Man | | | `BowMan_online.swf` (2-player VS Human, online through Ruffle Together 1.0.3.6+, each player on their own keys or mouse) |
 | Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (2-4 player co-op, online through Ruffle Together) |
 | Air Battle | BubbleBox | | `AirBattle_online.swf` (1-4 player local co-op, online through Ruffle Together) |
 | Raft Wars (2007) | BubbleBox | | `RaftWars_online.swf` (1-4 player turn co-op, online through Ruffle Together 1.0.3.6+, each player aims and shops with their own mouse or keys) |
@@ -53,7 +53,10 @@ and it will be taken down.
   (`--coop-keys territory-war`): the game's own Player 1 vs Player 2 hot-seat, with every
   player on the same keys (arrows, Space, 1-4, X, V). The host sets up the Custom Battle
   with the mouse; everyone plays their team's turns from the keyboard.
-- **Bow Man Online:** two archers on two PCs, taking turns. VS Online on the title menu.
+- **Bow Man Online:** two archers on two PCs, taking turns, in Ruffle Together
+  (`--coop-keys bow-man`): VS Human, player 1 W/S to aim and Space to draw and shoot, player 2
+  I/K and Enter (on your own PC: W/S or the arrows, Space/Enter/F). Each player can also aim
+  with their own mouse. The host's mouse clicks the menus.
 - **Ultimate Crab Battle Online:** two to four ships against the same crab, sharing one HP
   bar, on two to four PCs in Ruffle Together (`--coop-keys ultimate-crab-battle`). Every PC
   plays with the same keys (arrows, Space/Enter/Z/F to fire, Ctrl to skip); players 2-4 press fire on
