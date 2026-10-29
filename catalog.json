@@ -86,10 +86,10 @@
                       "name":  "RaftWars_online.swf",
                       "game":  "raftwars",
                       "path":  "games/raftwars/RaftWars_online.swf",
-                      "size":  1915946,
-                      "sha256":  "1e81c8b2c9f0f405da4e043d0180c852dea422341937a97c5ef28cacff17d68f",
-                      "updated":  "2026-10-29",
-                      "description":  "Raft Wars with 1-4 player turn co-op on the brothers\u0027 raft, online through Ruffle Together 1.0.3.4+ (--coop-keys gun-mayhem-2; every player aims with their own keys or mouse)"
+                      "size":  1916277,
+                      "sha256":  "2ab2304134b8292fdb36455829b433ccb6f36b85eec769dece77b2d8dfff186d",
+                      "updated":  "2026-10-30",
+                      "description":  "Raft Wars with 1-4 player turn co-op on the brothers\u0027 raft, online through Ruffle Together 1.0.3.6+ (--coop-keys gun-mayhem-2; every player aims with their own keys or mouse and can buy in the shop)"
                   },
                   {
                       "name":  "SmileysWar_online.swf",
