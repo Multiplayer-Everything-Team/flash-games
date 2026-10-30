@@ -30,6 +30,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Fireboy & Watergirl in The Forest Temple (2009) | Oslo Albet | [Armor Games](https://www.newgrounds.com/portal/view/518816) | `FireboyWatergirlForestTemple_online.swf` (its 2-player co-op, online through Ruffle Together 1.0.3.6) |
 | Dad 'n Me (2005) | Tom Fulp, Dan Paladin | [Newgrounds](https://www.newgrounds.com/portal/view/254456) | `DadNMe_online.swf` (players 2-4 added, online through Ruffle Together 1.0.3.7) |
 | Chaos Faction 2 (2010) | Dissolute Productions | [Newgrounds](https://www.newgrounds.com/portal/view/535370) | `ChaosFaction2_online.swf` (its 2-player Deathmatch, online through Ruffle Together 1.0.3.8) |
+| Zombotron (2011) | Ant Karlov | [Newgrounds](https://www.newgrounds.com/portal/view/575535) | `Zombotron_online.swf` (players 2-4 added, a camera each, online through Ruffle Together 1.0.3.8) |
 
 The games belong to their developers and publishers, for use with the Multiplayer Everything launcher and
 mods. The `_online` files are the original games with the Multiplayer Everything
@@ -121,6 +122,18 @@ and it will be taken down.
   Player 2 starts as Keyboard 2. Campaign and Survival stay single-player (the host plays,
   the friend watches). With one player it is the original game.
 
+- **Zombotron Online:** the physics shooter-platformer with players 2 to 4 added, online
+  through Ruffle Together 1.0.3.8 (`--coop-keys gun-mayhem-2`, `--coop-players 2-4`; the game
+  then sets its own keys). Every player walks with A/D or arrows, jumps with W, Up or Space, uses
+  doors, chests and shops with S, Down, E or F, reloads with R, switches weapon with Q, heals with
+  H, and aims and shoots with their own mouse. Each PC follows its own hero with its own camera
+  (or one shared team camera, a host setting, with a zoom setting); names float over the heroes
+  and a panel per player shows health, armor, weapon, ammo, coins and aidkits. Enemies go for
+  any hero, everyone picks things up for themselves, missions count for the team and whoever
+  reaches the exit takes the team on. A downed player gets up next to a friend with jump. Shops
+  use the coins and the mouse of whoever opened them. Friendly fire and players bumping into
+  each other are host settings, off by default. A friend who leaves is removed and the rest play
+  on. With one player it is the original game.
 The five new mods connect to the Multiplayer Everything relay with room codes. They
 work there once their game ids are added to
 [mods-info](https://github.com/multiplayereverything/mods-info); until then, host
@@ -157,6 +170,12 @@ directly with no desync for a whole Deathmatch to its End of Game screen and for
 to the ending, and the same match with the friend leaving (the host played on in sync). Not yet played by
 real players on two PCs.
 
+**Zombotron for Ruffle Together, build of 2026-10-30** (`Zombotron_online.swf`): 1 to 4 players through
+Ruffle Together 1.0.3.8. Tested on one PC: replays identical frame for frame (and identical to the original
+game with one player), test bots with 2, 3 and 4 players through all 10 levels to the ending, the same with
+one friend leaving on level 4, Ruffle Together sessions with 2, 3 and 4 players through a relay and directly
+with no desync (also with a friend leaving), and two real windows with no desync, each showing its own
+player's camera. Not yet played by real players on two PCs.
 Hosting needs the relay that is built into the launcher (*Host online* starts it).
 
 ## Layout

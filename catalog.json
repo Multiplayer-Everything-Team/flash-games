@@ -198,6 +198,15 @@
                       "sha256":  "fd69075478f9f81d9509d9333e6f910f7d24ff050a55b9ece3a6764f37b2649a",
                       "updated":  "2026-10-29",
                       "description":  "Ultimate Crab Battle for Ruffle Together: 2-4 ships against the crab on 2-4 PCs (--coop-keys ultimate-crab-battle; P2-P4 press fire on the difficulty menu to join). One player = the original game. Everyone needs this exact file."
+                  },
+                  {
+                      "name":  "Zombotron_online.swf",
+                      "game":  "zombotron",
+                      "path":  "games/zombotron/Zombotron_online.swf",
+                      "size":  8415614,
+                      "sha256":  "e9ce1360a3057a4b638e523537917bbdb5192db441444edeebc47e71d3404798",
+                      "updated":  "2026-10-30",
+                      "description":  "Zombotron with players 2-4 added, online through Ruffle Together 1.0.3.8 (--coop-keys gun-mayhem-2; the game then sets its own keys): each player on their own keys and own mouse, a camera per player, a panel and name per player. No netcode; every player needs this exact file. 1 player is the original game."
                   }
               ],
     "settings":  {
@@ -213,6 +222,88 @@
                                                      "friendlyfire=1"
                                                  ]
                                     }
-                                ]
+                                ],
+                     "zombotron":  [
+                                       {
+                                           "id":  "camera",
+                                           "type":  "choice",
+                                           "scope":  "host",
+                                           "label":  "Camera",
+                                           "default":  "split",
+                                           "since":  "1.0.3.7",
+                                           "choices":  [
+                                                           {
+                                                               "id":  "split",
+                                                               "label":  "Own camera each",
+                                                               "args":  [
+
+                                                                        ]
+                                                           },
+                                                           {
+                                                               "id":  "team",
+                                                               "label":  "One team camera",
+                                                               "args":  [
+                                                                            "--coop-option",
+                                                                            "camera=team"
+                                                                        ]
+                                                           }
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "zoom",
+                                           "type":  "choice",
+                                           "scope":  "host",
+                                           "label":  "Zoom",
+                                           "default":  "normal",
+                                           "since":  "1.0.3.7",
+                                           "choices":  [
+                                                           {
+                                                               "id":  "normal",
+                                                               "label":  "Normal",
+                                                               "args":  [
+
+                                                                        ]
+                                                           },
+                                                           {
+                                                               "id":  "wide",
+                                                               "label":  "Wide (see more)",
+                                                               "args":  [
+                                                                            "--coop-option",
+                                                                            "zoom=0.75"
+                                                                        ]
+                                                           },
+                                                           {
+                                                               "id":  "close",
+                                                               "label":  "Close",
+                                                               "args":  [
+                                                                            "--coop-option",
+                                                                            "zoom=1.25"
+                                                                        ]
+                                                           }
+                                                       ]
+                                       },
+                                       {
+                                           "id":  "friendlyfire",
+                                           "type":  "checkbox",
+                                           "scope":  "host",
+                                           "label":  "Friendly fire",
+                                           "since":  "1.0.3.7",
+                                           "args":  [
+                                                        "--coop-option",
+                                                        "friendlyfire=1"
+                                                    ]
+                                       },
+                                       {
+                                           "id":  "bump",
+                                           "type":  "checkbox",
+                                           "scope":  "host",
+                                           "label":  "Players bump into each other",
+                                           "since":  "1.0.3.7",
+                                           "args":  [
+                                                        "--coop-option",
+                                                        "bump=1"
+                                                    ]
+                                       }
+                                   ]
                  }
 }
