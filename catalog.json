@@ -140,18 +140,18 @@
                       "name":  "stealthhunter2_online.swf",
                       "game":  "stealthhunter2",
                       "path":  "games/stealthhunter2/stealthhunter2_online.swf",
-                      "size":  8217474,
-                      "sha256":  "312f57bb28c29bcb641ef228d28d6e98082ebaf5e51e8c4caf2e02f9697790cd",
-                      "updated":  "2026-10-29",
+                      "size":  8219202,
+                      "sha256":  "42203ea28b9d32c4cbf12dca9fe38d5e71e8102eba71bfebf3835b13e004a793",
+                      "updated":  "2026-10-31",
                       "description":  "Stealth Hunter 2 with local co-op for 2-4 players, played online through Ruffle Together (--coop-keys stealth-hunter-2)"
                   },
                   {
                       "name":  "stealthhunter2_online_direct.swf",
                       "game":  "stealthhunter2",
                       "path":  "games/stealthhunter2/stealthhunter2_online_direct.swf",
-                      "size":  8217474,
-                      "sha256":  "312f57bb28c29bcb641ef228d28d6e98082ebaf5e51e8c4caf2e02f9697790cd",
-                      "updated":  "2026-10-29",
+                      "size":  8219202,
+                      "sha256":  "42203ea28b9d32c4cbf12dca9fe38d5e71e8102eba71bfebf3835b13e004a793",
+                      "updated":  "2026-10-31",
                       "description":  "The same Ruffle Together co-op build as stealthhunter2_online.swf (no sponsor preloader)"
                   },
                   {

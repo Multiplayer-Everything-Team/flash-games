@@ -141,13 +141,15 @@ with your own relay and type its address under SERVER.
 
 ## Test status
 
-**Stealth Hunter 2 co-op for Ruffle Together, build of 2026-10-29** (`stealthhunter2_online.swf`,
+**Stealth Hunter 2 co-op for Ruffle Together, build of 2026-10-31** (`stealthhunter2_online.swf`,
 `stealthhunter2_online_direct.swf`, the same file). The game has no local multiplayer of its own, so
 this build adds it: 2 to 4 players, each on their own PC with the normal keys, through Ruffle
-Together 1.0.3.4 (`--coop-keys stealth-hunter-2`). Tested on one PC: the in-game co-op lab (17 of
-17), replays identical frame for frame, and Ruffle Together sessions with 2, 3 and 4 players
-through a relay and directly with no desync. Not yet played by two real players on two PCs.
-Players far apart can walk out of the shared view. Report problems in the
+Together 1.0.3.7 (`--coop-keys stealth-hunter-2`). Every player has their own camera that follows
+their own player; the HUD stays on screen. Tested on one PC with the 1.0.3.7 release: replays
+identical frame for frame (and the same game whichever player's view is drawn), Ruffle Together
+sessions with 2, 3 and 4 players through a relay and directly with no desync, and the in-game co-op
+lab (17 of 17). Not yet played by two real players on two PCs. Players more than three screens apart
+see black at the far edge of their view. Report problems in the
 [issues](https://github.com/multiplayereverything/flash-games/issues).
 
 **Smileys War for Ruffle Together, build of 2026-10-29** (`SmileysWar_online.swf`): 2 to 4 humans
