@@ -41,10 +41,10 @@
                       "name":  "DadNMe_online.swf",
                       "game":  "dadnme",
                       "path":  "games/dadnme/DadNMe_online.swf",
-                      "size":  3087082,
-                      "sha256":  "22968e62315e248fecaf08922fb78c687c14baa4245b1e12aba990e4e36bc34d",
+                      "size":  3088383,
+                      "sha256":  "adfebae99133ea7485a627836ee6145f6e59dadb4ef11d6c299f7d5640754be1",
                       "updated":  "2026-10-30",
-                      "description":  "Dad \u0027n Me with players 2-4 added (local co-op), played online through Ruffle Together 1.0.3.7 (--coop-keys gun-mayhem-2, --coop-players 2-4): every player on their own keys and their own HUD at the top left, enemies go for the nearest player, one shared screen, a knocked-out player gets up again while anyone is standing, a friend who leaves is taken out and the rest play on. No netcode; every player needs this exact file. 1 player is the original game."
+                      "description":  "Dad \u0027n Me with players 2-4 added (local co-op), played online through Ruffle Together 1.0.3.7 (--coop-keys gun-mayhem-2, --coop-players 2-4): every player on the game\u0027s own keys (arrows, A, S) on their own PC, with their own HUD and name at the top left, enemies go for the nearest player, one shared screen, a knocked-out player gets up again while anyone is standing, a friend who leaves is removed and the rest play on; friendly fire with the host\u0027s --coop-option friendlyfire=1. No netcode; every player needs this exact file. 1 player is the original game."
                   },
                   {
                       "name":  "FireboyWatergirlForestTemple_online.swf",

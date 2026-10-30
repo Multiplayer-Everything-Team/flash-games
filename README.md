@@ -103,11 +103,12 @@ and it will be taken down.
 
 - **Dad 'n Me Online:** the single-player beat 'em up with players 2 to 4 added, online
   through Ruffle Together 1.0.3.7 (`--coop-keys gun-mayhem-2`, `--coop-players 2-4`). Every
-  player presses arrows or WASD to move, Z or T to punch and X or Y for the second punch on
-  their own PC, and has their own HUD at the top left; the host clicks the menus. Enemies go
+  player uses the game's own keys on their own PC (arrows to move, A to punch, S for the
+  second punch) and has their own HUD with their name at the top left; the host clicks the
+  menus. Friendly fire is off unless the host turns it on (`--coop-option friendlyfire=1`). Enemies go
   for the nearest player, one shared
   screen follows the group, and a knocked-out player gets up again after 6 seconds while
-  anyone is still standing. A friend who leaves is taken out and the rest play on. With
+  anyone is still standing. A friend who leaves is removed and the rest play on. With
   one player it is the original game.
 
 The five new mods connect to the Multiplayer Everything relay with room codes. They
