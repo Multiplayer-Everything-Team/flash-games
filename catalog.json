@@ -38,6 +38,15 @@
                       "description":  "Bow Man for Ruffle Together: VS Human online for 2 PCs (--coop-keys bow-man; P1 W/S + Space, P2 I/K + Enter, or each player\u0027s own mouse)"
                   },
                   {
+                      "name":  "ChaosFaction2_online.swf",
+                      "game":  "chaosfaction2",
+                      "path":  "games/chaosfaction2/ChaosFaction2_online.swf",
+                      "size":  12629614,
+                      "sha256":  "460ecdca7269469ae9fdc2543195585ebcd2ce5d70d30a490a4b862ae556ee20",
+                      "updated":  "2026-10-30",
+                      "description":  "Chaos Faction 2 for Ruffle Together: its 2-player Deathmatch on 2 PCs (--coop-keys chaos-faction-2; every player on the game\u0027s own keys: arrows, Z, X, D, Shift, T; P2 starts as Keyboard 2). One player = the original game. Everyone needs this exact file."
+                  },
+                  {
                       "name":  "DadNMe_online.swf",
                       "game":  "dadnme",
                       "path":  "games/dadnme/DadNMe_online.swf",
