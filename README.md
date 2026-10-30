@@ -107,7 +107,9 @@ and it will be taken down.
   through Ruffle Together 1.0.3.7 (`--coop-keys gun-mayhem-2`, `--coop-players 2-4`). Every
   player uses the game's own keys on their own PC (arrows to move, A to punch, S for the
   second punch) and has their own HUD with their name at the top left; the host clicks the
-  menus. Friendly fire is off unless the host turns it on (`--coop-option friendlyfire=1`). Enemies go
+  menus. Friendly fire is off unless the host turns it on (`--coop-option friendlyfire=1`).
+  The host can also give every player their own view that follows them, normal or zoomed
+  in (`--coop-option camera=follow` or `camera=zoom`); by default everyone shares one screen. Enemies go
   for the nearest player, one shared
   screen follows the group, and a knocked-out player gets up again after 6 seconds while
   anyone is still standing. A friend who leaves is removed and the rest play on. With

@@ -50,10 +50,10 @@
                       "name":  "DadNMe_online.swf",
                       "game":  "dadnme",
                       "path":  "games/dadnme/DadNMe_online.swf",
-                      "size":  3088383,
-                      "sha256":  "adfebae99133ea7485a627836ee6145f6e59dadb4ef11d6c299f7d5640754be1",
-                      "updated":  "2026-10-30",
-                      "description":  "Dad \u0027n Me with players 2-4 added (local co-op), played online through Ruffle Together 1.0.3.7 (--coop-keys gun-mayhem-2, --coop-players 2-4): every player on the game\u0027s own keys (arrows, A, S) on their own PC, with their own HUD and name at the top left, enemies go for the nearest player, one shared screen, a knocked-out player gets up again while anyone is standing, a friend who leaves is removed and the rest play on; friendly fire with the host\u0027s --coop-option friendlyfire=1. No netcode; every player needs this exact file. 1 player is the original game."
+                      "size":  3088988,
+                      "sha256":  "9855f98e674cda8330e5d6d7bc45899e6e0cb8a9d8e9229737b65c34d09c235f",
+                      "updated":  "2026-10-31",
+                      "description":  "Dad \u0027n Me with players 2-4 added (local co-op), played online through Ruffle Together 1.0.3.7 (--coop-keys gun-mayhem-2, --coop-players 2-4): every player on the game\u0027s own keys (arrows, A, S) on their own PC, with their own HUD and name at the top left, enemies go for the nearest player, one shared screen, a knocked-out player gets up again while anyone is standing, a friend who leaves is removed and the rest play on; friendly fire with the host\u0027s --coop-option friendlyfire=1; each player\u0027s own camera (follow or zoomed) with --coop-option camera=follow|zoom. No netcode; every player needs this exact file. 1 player is the original game."
                   },
                   {
                       "name":  "FireboyWatergirlForestTemple_online.swf",
@@ -221,6 +221,39 @@
                                                      "--coop-option",
                                                      "friendlyfire=1"
                                                  ]
+                                    },
+                                    {
+                                        "id":  "camera",
+                                        "type":  "choice",
+                                        "scope":  "host",
+                                        "label":  "Camera",
+                                        "since":  "1.0.3.7",
+                                        "default":  "shared",
+                                        "choices":  [
+                                                        {
+                                                            "id":  "shared",
+                                                            "label":  "Shared screen",
+                                                            "args":  [
+
+                                                                     ]
+                                                        },
+                                                        {
+                                                            "id":  "follow",
+                                                            "label":  "Follow each player",
+                                                            "args":  [
+                                                                         "--coop-option",
+                                                                         "camera=follow"
+                                                                     ]
+                                                        },
+                                                        {
+                                                            "id":  "zoom",
+                                                            "label":  "Follow each player, zoomed in",
+                                                            "args":  [
+                                                                         "--coop-option",
+                                                                         "camera=zoom"
+                                                                     ]
+                                                        }
+                                                    ]
                                     }
                                 ],
                      "zombotron":  [
