@@ -86,10 +86,10 @@
                       "name":  "Intrusion_online.swf",
                       "game":  "intrusion",
                       "path":  "games/intrusion/Intrusion_online.swf",
-                      "size":  5504153,
-                      "sha256":  "8a89d2413a3c4d5eb453c94847b465200d11bc000b6f9c90be557f14e9e38fe7",
-                      "updated":  "2026-10-29",
-                      "description":  "Intrusion with local co-op for 2-4 soldiers, played online through Ruffle Together 1.0.3.4+ (--coop-keys intrusion; Players 1-4 on the main menu, shared lives, one camera)"
+                      "size":  5506210,
+                      "sha256":  "d5b85f475b8f67106c921a9e3f8d35c594c74b28bea9b27e39656f1e1a27f60c",
+                      "updated":  "2026-10-30",
+                      "description":  "Intrusion with local co-op for 2-4 soldiers, played online through Ruffle Together 1.0.3.8+ (every player in the room plays with the original controls: WASD, mouse aim, click or Space to shoot; shared lives, one camera)"
                   },
                   {
                       "name":  "Intrusion2_online.swf",

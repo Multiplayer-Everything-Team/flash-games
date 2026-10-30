@@ -73,10 +73,10 @@ and it will be taken down.
   main menu sets the count; on your turn arrows or WASD aim and set power, Z/T fires, X/Y
   changes ammo (player 1 can also use the mouse). The host's mouse runs menus and the shop.
 - **Intrusion Online:** the campaign in co-op for up to four soldiers, online through
-  Ruffle Together 1.0.3.4 or later (`--coop-keys intrusion`). The host picks 1-4 under
-  Players on the main menu and starts the game; each PC plays its own soldier with arrows
-  or WASD, Space/Z/F to fire, Q/E to aim up/down and 1-4 for weapons (player 1 can also aim
-  with the mouse). The team shares the lives and one camera keeps everyone in view.
+  Ruffle Together 1.0.3.8 or later. Everyone who joins the room plays (the game sets its own
+  key map, so any `--coop-keys` works); each PC plays its own soldier with the original
+  controls: WASD or arrows to move and jump, the mouse to aim, click or Space to shoot,
+  1-4 for weapons, P to pause. The team shares the lives and one camera keeps everyone in view.
 - **Stealth Assassin Online:** up to four assassins sneak through the missions
   together, each on their own PC; every extra player adds one more green target. A
   player who dies watches the rest of the mission; it fails only when everyone is
