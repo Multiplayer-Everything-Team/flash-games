@@ -190,5 +190,20 @@
                       "updated":  "2026-10-29",
                       "description":  "Ultimate Crab Battle for Ruffle Together: 2-4 ships against the crab on 2-4 PCs (--coop-keys ultimate-crab-battle; P2-P4 press fire on the difficulty menu to join). One player = the original game. Everyone needs this exact file."
                   }
-              ]
+              ],
+    "settings":  {
+                     "dadnme":  [
+                                    {
+                                        "id":  "friendlyfire",
+                                        "type":  "checkbox",
+                                        "scope":  "host",
+                                        "label":  "Friendly fire",
+                                        "since":  "1.0.3.7",
+                                        "args":  [
+                                                     "--coop-option",
+                                                     "friendlyfire=1"
+                                                 ]
+                                    }
+                                ]
+                 }
 }
