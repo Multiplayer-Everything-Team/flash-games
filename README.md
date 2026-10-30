@@ -15,7 +15,7 @@ Questions, bugs, or looking for people to play with? Join the [Multiplayer Every
 | Gun Mayhem 2: More Mayhem (2012) | KevinGu | [Armor Games](https://armorgames.com/play/13824/gun-mayhem-2-more-mayhem) | `gunmayhem2.swf` (original), `gunmayhem2_online.swf` (Ruffle Together build) |
 | Stealth Hunter 2 | RacSeven | [Y8](https://www.y8.com/games/stealth_hunter_2) | `stealth_hunter_2.swf` (original), `stealthhunter2_online.swf` (co-op for Ruffle Together), `stealthhunter2_online_direct.swf` (same file) |
 | Bad Ice-Cream (2010) | Nitrome | [Nitrome](https://www.nitrome.com/games/badicecream/) | `BadIceCream_online.swf` (online co-op in [Ruffle Together](https://github.com/multiplayereverything/ruffle-coop/releases/tag/v1.0.0): the game with only the fix for levels that wouldn't start outside the web page, no mod code), `BadIceCream_coop.swf` (the same file under its earlier name) |
-| Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (2-4 player hot-seat, online through Ruffle Together) |
+| Territory War (2007) | Afro-Ninja | | `TerritoryWar_online.swf` (2-4 players, each on their own turns, online through Ruffle Together) |
 | Bow Man | | | `BowMan_online.swf` (2-player VS Human, online through Ruffle Together 1.0.3.6+, each player on their own keys or mouse) |
 | Ultimate Crab Battle | | | `UltimateCrabBattle_online.swf` (2-4 player co-op, online through Ruffle Together) |
 | Air Battle | BubbleBox | | `AirBattle_online.swf` (1-4 player local co-op, online through Ruffle Together) |
@@ -52,9 +52,9 @@ and it will be taken down.
   Host with `--coop-host`, join with `--coop-join <ip>:<port>`, or use a room code on
   the central relay. The same file plays co-op on one keyboard in plain Ruffle too.
 - **Territory War Online:** red against blue on two to four PCs in Ruffle Together
-  (`--coop-keys territory-war`): the game's own Player 1 vs Player 2 hot-seat, with every
-  player on the same keys (arrows, Space, 1-4, X, V). The host sets up the Custom Battle
-  with the mouse; everyone plays their team's turns from the keyboard.
+  (`--coop-keys territory-war`). Players 1 and 3 are red, 2 and 4 blue; each team's sticks are shared out
+  between its players, and on a stick's turn only its player's keys and clicks count. The host sets up the
+  Custom Battle with the mouse; everyone plays their own turns with arrows, Space, 1-4, X and V.
 - **Bow Man Online:** two archers on two PCs, taking turns, in Ruffle Together
   (`--coop-keys bow-man`): VS Human, player 1 W/S to aim and Space to draw and shoot, player 2
   I/K and Enter (on your own PC: W/S or the arrows, Space/Enter/F). Each player can also aim
