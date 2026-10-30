@@ -194,10 +194,10 @@
                       "name":  "UltimateCrabBattle_online.swf",
                       "game":  "ultimatecrabbattle",
                       "path":  "games/ultimatecrabbattle/UltimateCrabBattle_online.swf",
-                      "size":  3106001,
-                      "sha256":  "fd69075478f9f81d9509d9333e6f910f7d24ff050a55b9ece3a6764f37b2649a",
-                      "updated":  "2026-10-29",
-                      "description":  "Ultimate Crab Battle for Ruffle Together: 2-4 ships against the crab on 2-4 PCs (--coop-keys ultimate-crab-battle; P2-P4 press fire on the difficulty menu to join). One player = the original game. Everyone needs this exact file."
+                      "size":  3106950,
+                      "sha256":  "95f9faa0522e07f6a42afa6a60f3e1d4cac2496d533067dfb111bc09c915ae35",
+                      "updated":  "2026-10-31",
+                      "description":  "Ultimate Crab Battle for Ruffle Together (1.0.3.8+): every player in the session gets a ship (2-4) and plays with the game\u0027s own keys: arrows, A to fire, Ctrl, 1-3, Y/N. One player outside a session = the original game. Everyone needs this exact file."
                   },
                   {
                       "name":  "Zombotron_online.swf",

@@ -60,9 +60,9 @@ and it will be taken down.
   I/K and Enter (on your own PC: W/S or the arrows, Space/Enter/F). Each player can also aim
   with their own mouse. The host's mouse clicks the menus.
 - **Ultimate Crab Battle Online:** two to four ships against the same crab, sharing one HP
-  bar, on two to four PCs in Ruffle Together (`--coop-keys ultimate-crab-battle`). Every PC
-  plays with the same keys (arrows, Space/Enter/Z/F to fire, Ctrl to skip); players 2-4 press fire on
-  the difficulty menu to join, then anyone picks 1, 2 or 3. The host's mouse clicks the menus.
+  bar, in Ruffle Together (`--coop-keys ultimate-crab-battle`). Everyone in the session gets a
+  ship and plays with the game's own keys on their own PC: arrows move, A fires, Ctrl skips,
+  1-3 pick the difficulty, Y continues. A friend who leaves loses their ship; the rest play on.
 - **Air Battle Online:** one to four balloon boats fly the levels together, online
   through Ruffle Together 1.0.3.4 or later (`--coop-keys air-battle`). PLAYERS 1-4 on the
   main menu sets the count. P1 arrows, Z fires, Down/X turn the cannon (or the mouse aims);
