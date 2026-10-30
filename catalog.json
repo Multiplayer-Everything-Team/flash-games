@@ -158,10 +158,10 @@
                       "name":  "TerritoryWar_online.swf",
                       "game":  "territorywar",
                       "path":  "games/territorywar/TerritoryWar_online.swf",
-                      "size":  1008129,
-                      "sha256":  "224d1f3ad5acfcc20e16578e52028154940a4ebf59785d43f5a7f3f0915d0d70",
+                      "size":  1008653,
+                      "sha256":  "b5f5d8e2582c7672dda041f255724775db9674489c507b74c9ac49ad3653833b",
                       "updated":  "2026-10-31",
-                      "description":  "Territory War for Ruffle Together: red against blue on 2-4 PCs, each player plays only their own sticks on their own turns (--coop-keys territory-war, Ruffle Together 1.0.3.7+)"
+                      "description":  "Territory War for Ruffle Together: red against blue on 2-4 PCs, each player plays only their own turns, rotated or by stick (TURNS on the main menu; --coop-keys territory-war, Ruffle Together 1.0.3.7+)"
                   },
                   {
                       "name":  "UltimateAssassin1_online.swf",
