@@ -76,7 +76,8 @@ and it will be taken down.
   Ruffle Together 1.0.3.8 or later. Everyone who joins the room plays (the game sets its own
   key map, so any `--coop-keys` works); each PC plays its own soldier with the original
   controls: WASD or arrows to move and jump, the mouse to aim, click or Space to shoot,
-  1-4 for weapons, P to pause. The team shares the lives and one camera keeps everyone in view.
+  1-4 for weapons, P to pause. The team shares the lives and one camera keeps everyone in view;
+  a soldier who ends up too far from the team for a second (flung, left behind) is brought back next to them.
 - **Stealth Assassin Online:** up to four assassins sneak through the missions
   together, each on their own PC; every extra player adds one more green target. A
   player who dies watches the rest of the mission; it fails only when everyone is
@@ -108,8 +109,8 @@ and it will be taken down.
   player uses the game's own keys on their own PC (arrows to move, A to punch, S for the
   second punch) and has their own HUD with their name at the top left; the host clicks the
   menus. Friendly fire is off unless the host turns it on (`--coop-option friendlyfire=1`).
-  The host can also give every player their own view that follows them, normal or zoomed
-  in (`--coop-option camera=follow` or `camera=zoom`); by default everyone shares one screen. Enemies go
+  Every player's own view follows them; the host can pick one shared screen instead
+  (`--coop-option camera=shared`) or zoomed-in views (`camera=zoom`). Enemies go
   for the nearest player, one shared
   screen follows the group, and a knocked-out player gets up again after 6 seconds while
   anyone is still standing. A friend who leaves is removed and the rest play on. With

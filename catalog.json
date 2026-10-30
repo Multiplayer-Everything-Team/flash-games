@@ -51,9 +51,9 @@
                       "game":  "dadnme",
                       "path":  "games/dadnme/DadNMe_online.swf",
                       "size":  3088988,
-                      "sha256":  "9855f98e674cda8330e5d6d7bc45899e6e0cb8a9d8e9229737b65c34d09c235f",
+                      "sha256":  "6f7477b0930f1e81e83ad7c22383b7265d2863e036e7c6cd2d476769ae50dfdc",
                       "updated":  "2026-10-31",
-                      "description":  "Dad \u0027n Me with players 2-4 added (local co-op), played online through Ruffle Together 1.0.3.7 (--coop-keys gun-mayhem-2, --coop-players 2-4): every player on the game\u0027s own keys (arrows, A, S) on their own PC, with their own HUD and name at the top left, enemies go for the nearest player, one shared screen, a knocked-out player gets up again while anyone is standing, a friend who leaves is removed and the rest play on; friendly fire with the host\u0027s --coop-option friendlyfire=1; each player\u0027s own camera (follow or zoomed) with --coop-option camera=follow|zoom. No netcode; every player needs this exact file. 1 player is the original game."
+                      "description":  "Dad \u0027n Me with players 2-4 added (local co-op), played online through Ruffle Together 1.0.3.7 (--coop-keys gun-mayhem-2, --coop-players 2-4): every player on the game\u0027s own keys (arrows, A, S) on their own PC, with their own HUD and name at the top left, enemies go for the nearest player, one shared screen, a knocked-out player gets up again while anyone is standing, a friend who leaves is removed and the rest play on; friendly fire with the host\u0027s --coop-option friendlyfire=1; each player\u0027s own view follows them by default (--coop-option camera=shared for one screen, camera=zoom to zoom in). No netcode; every player needs this exact file. 1 player is the original game."
                   },
                   {
                       "name":  "FireboyWatergirlForestTemple_online.swf",
@@ -86,10 +86,10 @@
                       "name":  "Intrusion_online.swf",
                       "game":  "intrusion",
                       "path":  "games/intrusion/Intrusion_online.swf",
-                      "size":  5506210,
-                      "sha256":  "d5b85f475b8f67106c921a9e3f8d35c594c74b28bea9b27e39656f1e1a27f60c",
-                      "updated":  "2026-10-30",
-                      "description":  "Intrusion with local co-op for 2-4 soldiers, played online through Ruffle Together 1.0.3.8+ (every player in the room plays with the original controls: WASD, mouse aim, click or Space to shoot; shared lives, one camera)"
+                      "size":  5507467,
+                      "sha256":  "1935f54301419752df7fa51bb680afa1764b0a6347c0c0c4bdb7852ffe07307c",
+                      "updated":  "2026-10-31",
+                      "description":  "Intrusion with local co-op for 2-4 soldiers, played online through Ruffle Together 1.0.3.8+ (every player in the room plays with the original controls: WASD, mouse aim, click or Space to shoot; shared lives, one camera, a soldier too far from the team is brought back)"
                   },
                   {
                       "name":  "Intrusion2_online.swf",
@@ -228,21 +228,21 @@
                                         "scope":  "host",
                                         "label":  "Camera",
                                         "since":  "1.0.3.7",
-                                        "default":  "shared",
+                                        "default":  "follow",
                                         "choices":  [
                                                         {
-                                                            "id":  "shared",
-                                                            "label":  "Shared screen",
+                                                            "id":  "follow",
+                                                            "label":  "Follow each player",
                                                             "args":  [
 
                                                                      ]
                                                         },
                                                         {
-                                                            "id":  "follow",
-                                                            "label":  "Follow each player",
+                                                            "id":  "shared",
+                                                            "label":  "Shared screen",
                                                             "args":  [
                                                                          "--coop-option",
-                                                                         "camera=follow"
+                                                                         "camera=shared"
                                                                      ]
                                                         },
                                                         {
