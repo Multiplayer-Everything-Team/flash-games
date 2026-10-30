@@ -95,10 +95,10 @@
                       "name":  "Intrusion2_online.swf",
                       "game":  "intrusion2",
                       "path":  "games/intrusion2/Intrusion2_online.swf",
-                      "size":  19124613,
-                      "sha256":  "515dfcd63a80e5055af939f0d654b3be18216f4e7ad3a0832495dc8fabbd2a65",
-                      "updated":  "2026-10-29",
-                      "description":  "Intrusion 2 with local co-op for 1-4 soldiers, played online through Ruffle Together 1.0.3.4+ (--coop-keys intrusion-2; PLAYERS button under START, each player on their own keys, P1 aims with the mouse, respawn next to a teammate). No netcode; every player needs this exact file. With 1 player the co-op code is switched off."
+                      "size":  19125546,
+                      "sha256":  "35cfe955bf4446e483bfd081c47e0d8f874f7363428767ae4ff547e7d7515a7b",
+                      "updated":  "2026-10-31",
+                      "description":  "Intrusion 2 with local co-op for 1-4 soldiers, played online through Ruffle Together 1.0.3.8+. The session sets the player count and every PC gets the game\u0027s own keys (WASD or arrows, Space or click fire, E action, Q/F weapon, P pause); every player aims and fires with their own mouse. No netcode; every player needs this exact file. With 1 player the co-op code is switched off."
                   },
                   {
                       "name":  "RaftWars_online.swf",
