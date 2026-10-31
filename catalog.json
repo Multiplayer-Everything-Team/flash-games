@@ -210,6 +210,33 @@
                   }
               ],
     "settings":  {
+                     "territorywar":  [
+                                          {
+                                              "id":  "turns",
+                                              "type":  "choice",
+                                              "scope":  "host",
+                                              "label":  "Turns",
+                                              "since":  "1.0.3.7",
+                                              "default":  "rotation",
+                                              "choices":  [
+                                                              {
+                                                                  "id":  "rotation",
+                                                                  "label":  "Rotation (everyone plays)",
+                                                                  "args":  [
+
+                                                                           ]
+                                                              },
+                                                              {
+                                                                  "id":  "stick",
+                                                                  "label":  "By stick",
+                                                                  "args":  [
+                                                                               "--coop-option",
+                                                                               "turns=stick"
+                                                                           ]
+                                                              }
+                                                          ]
+                                          }
+                                      ],
                      "dadnme":  [
                                     {
                                         "id":  "friendlyfire",
