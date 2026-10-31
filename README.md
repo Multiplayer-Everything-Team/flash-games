@@ -53,8 +53,8 @@ and it will be taken down.
   the central relay. The same file plays co-op on one keyboard in plain Ruffle too.
 - **Territory War Online:** red against blue on two to four PCs in Ruffle Together
   (`--coop-keys territory-war`). Players 1 and 3 are red, 2 and 4 blue (against the CPU everyone is red); on a
-  turn only that player's keys and clicks count. TURNS on the main menu (host): ROTATE passes each team's turns
-  round all its players, BY STICK gives each player their own sticks. The host sets up the match with the mouse;
+  turn only that player's keys and clicks count. Turn rotation (default) passes each team's turns round all its
+  players; with `--coop-option turns=stick` each player has their own sticks. The host sets up the match with the mouse;
   everyone plays their own turns with arrows, Space, 1-4, X and V.
 - **Bow Man Online:** two archers on two PCs, taking turns, in Ruffle Together
   (`--coop-keys bow-man`): VS Human, player 1 W/S to aim and Space to draw and shoot, player 2
