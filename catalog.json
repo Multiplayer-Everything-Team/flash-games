@@ -98,7 +98,7 @@
                       "size":  19125546,
                       "sha256":  "35cfe955bf4446e483bfd081c47e0d8f874f7363428767ae4ff547e7d7515a7b",
                       "updated":  "2026-10-31",
-                      "description":  "Intrusion 2 with local co-op for 1-4 soldiers, played online through Ruffle Together 1.0.3.8+. The session sets the player count and every PC gets the game\u0027s own keys (WASD or arrows, Space or click fire, E action, Q/F weapon, P pause); every player aims and fires with their own mouse. No netcode; every player needs this exact file. With 1 player the co-op code is switched off."
+                      "description":  "Intrusion 2 with local co-op for 1-4 soldiers, played online through Ruffle Together 1.0.3.9+. The session sets the player count and every PC gets the game\u0027s own keys (WASD or arrows, Space or click fire, E action, Q/F weapon, P pause); every player aims and fires with their own mouse and has their own crosshair. The view zooms out to fit everyone while each PC's camera follows its own soldier at normal size; a friend who leaves takes their soldier with them. No netcode; every player needs this exact file. With 1 player the co-op code is switched off."
                   },
                   {
                       "name":  "RaftWars_online.swf",
