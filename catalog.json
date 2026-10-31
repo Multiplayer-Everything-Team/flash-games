@@ -203,9 +203,9 @@
                       "name":  "Zombotron_online.swf",
                       "game":  "zombotron",
                       "path":  "games/zombotron/Zombotron_online.swf",
-                      "size":  8415614,
-                      "sha256":  "e9ce1360a3057a4b638e523537917bbdb5192db441444edeebc47e71d3404798",
-                      "updated":  "2026-10-30",
+                      "size":  8416351,
+                      "sha256":  "f217655af6d8ceecab52531f317e06d3e51aeba3ea5bbce286738ace57eb35c6",
+                      "updated":  "2026-10-31",
                       "description":  "Zombotron with players 2-4 added, online through Ruffle Together 1.0.3.8 (--coop-keys gun-mayhem-2; the game then sets its own keys): each player on their own keys and own mouse, a camera per player, a panel and name per player. No netcode; every player needs this exact file. 1 player is the original game."
                   }
               ],

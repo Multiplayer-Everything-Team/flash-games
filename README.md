@@ -175,7 +175,8 @@ directly with no desync for a whole Deathmatch to its End of Game screen and for
 to the ending, and the same match with the friend leaving (the host played on in sync). Not yet played by
 real players on two PCs.
 
-**Zombotron for Ruffle Together, build of 2026-10-30** (`Zombotron_online.swf`): 1 to 4 players through
+**Zombotron for Ruffle Together, build of 2026-10-31** (`Zombotron_online.swf`, 1.1: arrows at the screen edge
+point to teammates who are off your screen): 1 to 4 players through
 Ruffle Together 1.0.3.8. Tested on one PC: replays identical frame for frame (and identical to the original
 game with one player), test bots with 2, 3 and 4 players through all 10 levels to the ending, the same with
 one friend leaving on level 4, Ruffle Together sessions with 2, 3 and 4 players through a relay and directly
